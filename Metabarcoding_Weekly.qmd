@@ -1,0 +1,23 @@
+---
+title: "Metabarcoding_Weekly"
+authors: "Evelyn Pain, Fatimah Bouderdaben, and Jimmy Erkens"
+format: html
+editor: visual
+---
+
+# Background and goals
+
+TBA
+
+# Revised Protocol
+
+TBA
+
+```         
+- <input type="checkbox" unchecked> Venus</input>
+- <input type="checkbox" checked> Mars</input>
+```
+
+# Feb 12 - Feb 18
+
+TBA
