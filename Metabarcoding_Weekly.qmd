@@ -31,7 +31,17 @@ editor: visual
 
 # Background and goals
 
-ELP: Testing
+ELP:
+
+Our internship team has 4 main goals:
+
+1.  To gain familiarity with genomics/genetics literature and theory through the assigned readings
+
+2.  To get practice with the lab skills necessary for extraction, PCR and sequencing (with the Oxford Nanopore MinION)
+
+3.  To develop a working protocol to DNA metabarcode woolly fecal samples to detect insects (and plants?) in their diet
+
+4.  To practice bioinformatics skills by identifying and comparing the species eaten by YTWMs and common woolly monkeys
 
 # Revised Protocol
 
