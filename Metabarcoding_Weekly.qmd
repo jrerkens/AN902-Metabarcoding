@@ -51,15 +51,17 @@ ELP: This protocol is modified from the protocol developed by Mel Zarate in the 
 
 1.  Ensure that you are wearing suitable PPE: a lab coat, protective eye glasses and gloves (you can consult the appropriate safety data sheets from product suppliers if you have any doubts)
 
-2.  Turn on the bio safety hood and let it run for a minimum of 15 minutes before starting the protocol
+2.  Turn on the biosafety cabinet (BSC) and let it run for a minimum of 15 minutes before starting the protocol
 
-3.  Make up a new batch of 10% bleach solution (1 part bleach to 9 parts distilled water) for the day and dispose of any from previous days
+3.  Turn on the water bath and set it to 65C
 
-4.  Clean all pipettes and work surfaces (including inside the bio safety hood) first with the bleach solution, then distilled water, and finally with 70% ethanol
+4.  Make up a new batch of 10% bleach solution (1 part bleach to 9 parts distilled water) for the day and dispose of any from previous days
 
-5.  Ensure that you have sufficient supplies (i.e., autoclaved, sterile tubes, pipette tips, etc.) before beginning
+5.  Clean all pipettes and work surfaces (including inside the biosafety cabinet) first with the bleach solution, then distilled water, and finally with 70% ethanol
 
-6.  Removed samples to be extracted from the freezer and let them thaw on ice
+6.  Ensure that you have sufficient supplies (i.e., autoclaved, sterile tubes, pipette tips, etc.) before beginning
+
+7.  Removed samples to be extracted from the freezer and let them thaw on ice
 
 ## Notes on the protocol
 
@@ -73,9 +75,11 @@ ELP: This protocol is modified from the protocol developed by Mel Zarate in the 
 
 -   Shake to mix **Solution C4** before use.
 
-## Required equipment and reagents
+## Required equipment and supplies
 
--   In this protocol, equipment/reagents available in the DNeasy PowerLyzer PowerSoil Kit will be marked in [blue]{style="color:blue"}. Equipment available in the SMAGL will be in [green]{style="color:green"}.
+-   In this protocol, equipment/reagents available in the DNeasy PowerLyzer PowerSoil Kit will be marked in [blue]{style="color:blue"}. Equipment and supplies available in the SMAGL will be in [green]{style="color:green"}.
+-   You will use the following pieces of equipment: a [biosafety cabinet]{style="color:green"}, [pipettes]{style="color:green"} (the extraction set are located inside the **BSC** or at the **extraction workstation**), [microcentrifuge]{style="color:green"} (located at **centrifuge workstation**) set to 10,000 rcf (not rpm), a [heating block]{style="color:green"} or [waterbath]{style="color:green"} set to 65C (located at the **extraction workstation**), a [vortexer]{style="color:green"} (located at the **extraction workstation** or inside **BSC**) and a [bead-beater]{style="color:green"} (located in the **BSC**)
+-   You will also need [pipette tips]{style="color:green"} (located on shelves above the **PCR** or **quantification workstations**). ONLY use filter tips!
 
 ```         
 - <input type="checkbox" unchecked> Venus</input>
