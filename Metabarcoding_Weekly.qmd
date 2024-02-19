@@ -43,9 +43,39 @@ Our internship team has 4 main goals:
 
 4.  To practice bioinformatics skills by identifying and comparing the species eaten by YTWMs and common woolly monkeys
 
-# Revised Protocol
+# Protocol (**DNeasy PowerLyzer PowerSoil Kit)**
 
-TBA
+ELP: This protocol is modified from the protocol developed by Mel Zarate in the SMAGL lab following a template from Dr. Liz Mallott (Washington University in St. Louis)
+
+## General notes before starting
+
+1.  Ensure that you are wearing suitable PPE: a lab coat, protective eye glasses and gloves (you can consult the appropriate safety data sheets from product suppliers if you have any doubts)
+
+2.  Turn on the bio safety hood and let it run for a minimum of 15 minutes before starting the protocol
+
+3.  Make up a new batch of 10% bleach solution (1 part bleach to 9 parts distilled water) for the day and dispose of any from previous days
+
+4.  Clean all pipettes and work surfaces (including inside the bio safety hood) first with the bleach solution, then distilled water, and finally with 70% ethanol
+
+5.  Ensure that you have sufficient supplies (i.e., autoclaved, sterile tubes, pipette tips, etc.) before beginning
+
+6.  Removed samples to be extracted from the freezer and let them thaw on ice
+
+## Notes on the protocol
+
+-   Make sure to label all tubes on both the top and sides (it is easy for labels to get rubbed off during the protocol)
+
+-   Always include a control sample of sterile/DNAse free water for every extraction so that you can detect potential contamination!
+
+-   Perform all centrifugation steps at room temperature (15--25°C).
+
+-   If **Solution C1** has precipitated, heat at 60°C until the precipitate dissolves.
+
+-   Shake to mix **Solution C4** before use.
+
+## Required equipment and reagents
+
+-   In this protocol, equipment/reagents available in the DNeasy PowerLyzer PowerSoil Kit will be marked in [blue]{style="color:blue"}. Equipment available in the SMAGL will be in [green]{style="color:green"}.
 
 ```         
 - <input type="checkbox" unchecked> Venus</input>
