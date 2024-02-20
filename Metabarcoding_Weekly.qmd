@@ -7,6 +7,8 @@ editor: visual
 
 # Brief Github protocol
 
+JRE
+
 -   Install Git
 
 -   Import in project via version control
@@ -88,6 +90,10 @@ ELP: This protocol is modified from the protocol developed by Mel Zarate in the 
 
 # Feb 12 - Feb 18
 
-TBA
+JRE
+
+This was the week we were supposed to start the extraction protocol, but got postponed.
 
 Fati: Practice Pipetting
+
+# Feb 20 - Feb 25
