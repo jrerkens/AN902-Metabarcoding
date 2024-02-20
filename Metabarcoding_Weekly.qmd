@@ -45,7 +45,9 @@ Our internship team has 4 main goals:
 
 4.  To practice bioinformatics skills by identifying and comparing the species eaten by YTWMs and common woolly monkeys
 
-ELP \# Protocol (**DNeasy PowerLyzer PowerSoil Kit)**
+ELP
+
+# Protocol (**DNeasy PowerLyzer PowerSoil Kit)**
 
 This protocol is modified from the protocol developed by Mel Zarate in the SMAGL lab following a template from Dr. Liz Mallott (Washington University in St. Louis)
 
