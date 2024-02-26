@@ -45,29 +45,38 @@ Our internship team has 4 main goals:
 
 4.  To practice bioinformatics skills by identifying and comparing the species eaten by YTWMs and common woolly monkeys
 
+```         
+- <input type="checkbox" unchecked> Venus</input>
+- <input type="checkbox" checked> Mars</input>
+```
+
 ELP
 
-# Protocol (**DNeasy PowerLyzer PowerSoil Kit)**
+# Extraction Protocol (**QIAGEN Stool Kit)**
 
-This protocol is modified from the protocol developed by Mel Zarate in the SMAGL lab following a template from Dr. Liz Mallott (Washington University in St. Louis)
+This protocol is modified from the protocol developed by Mel Zarate in the SMAGL lab following modifications based on published protocols by Tony Di Fiore (University of Texas at Austin)
 
 ## General notes before starting
 
-1.  Ensure that you are wearing suitable PPE: a lab coat, protective eye glasses and gloves (you can consult the appropriate safety data sheets from product suppliers if you have any doubts)
+-   Ensure that you are wearing suitable PPE: a lab coat, protective eye glasses and gloves (you can consult the appropriate safety data sheets from product suppliers if you have any doubts)
 
-2.  Turn on the biosafety cabinet (BSC) and let it run for a minimum of 15 minutes before starting the protocol
+-   Turn on the biosafety cabinet (BSC) and let it run for a minimum of 15 minutes before starting the protocol
 
-3.  Turn on the water bath and set it to 65 °C
+-   Turn on the water bath and set it to 70 °C
 
-4.  Make up a new batch of 10% bleach solution (1 part bleach to 9 parts distilled water) for the day and dispose of any from previous days
+-   Turn on the heat block and set it to 56 °C
 
-5.  Clean all pipettes and work surfaces (including inside the biosafety cabinet) first with the bleach solution, then distilled water, and finally with 70% ethanol
+-   Make up a new batch of 10% bleach solution (1 part bleach to 9 parts distilled water) for the day and dispose of any from previous days. Be sure to appropriately label the vessel with date and contents!
 
-6.  Ensure that you have sufficient supplies (i.e., autoclaved, sterile tubes, pipette tips, etc.) before beginning
+-   Aliquot sufficient 96-100% **ethanol** (available in the **Flammables Cabinet**) to a smaller vessel for use later in the protocol. Be sure to appropriately label the vessel with date and contents!
 
-7.  UV all tubes, pipettes and pipette tips in either the BSC or the PCR hood for 10 minutes before starting (be careful to limit your exposure to the UV light!)
+-   Clean all pipettes and work surfaces (including inside the biosafety cabinet) first with the bleach solution, then distilled water, and finally with 70% ethanol
 
-8.  Removed samples to be extracted from the freezer and let them thaw on ice
+-   Ensure that you have sufficient supplies (i.e., autoclaved, sterile tubes, pipette tips, etc.) before beginning
+
+-   UV all tubes, pipettes and pipette tips in either the BSC or the PCR hood for 10 minutes before starting (be careful to limit your exposure to the UV light!)
+
+-   Removed samples to be extracted from the freezer and let them thaw on ice
 
 ## Notes on the protocol
 
@@ -75,72 +84,160 @@ This protocol is modified from the protocol developed by Mel Zarate in the SMAGL
 
 -   Always include a control sample of sterile/DNAse free water for every extraction so that you can detect potential contamination!
 
--   Perform all centrifugation steps at room temperature (15--25 °C).
+-   Perform all centrifugation steps at room temperature (15--25 °C)
 
--   If **Solution C1** has precipitated, heat at 60 °C until the precipitate dissolves.
-
--   Shake to mix **Solution C4** before use.
+-   The 2 ml tubes used in step 4 should be wide enough to accommodate an InhibitEX Tablet. If it's not wide enough, you may need to break up the tablet to insert
 
 ## Required equipment and supplies
 
--   In this protocol, equipment/reagents available in the DNeasy PowerLyzer PowerSoil Kit will be marked in [blue]{style="color:blue"}. Equipment and supplies available in the SMAGL will be in [green]{style="color:green"}.
--   You will use the following pieces of equipment: a [biosafety cabinet]{style="color:green"}, [fridge]{style="color:green"} (located below the **PCR workstation**), [pipettes]{style="color:green"} (the extraction set are located inside the **BSC** or at the **extraction workstation**), [microcentrifuge]{style="color:green"} (located at **centrifuge workstation**) set to 10,000 rcf (not rpm), a [heating block]{style="color:green"} or [waterbath]{style="color:green"} set to 65 °C (located at the **extraction workstation**), a [vortexer]{style="color:green"} (located at the **extraction workstation** or inside **BSC**) and a [bead-beater]{style="color:green"} (located in the **BSC**)
--   You will also need [pipette tips]{style="color:green"} (located on shelves above the **PCR** or **quantification workstations**). ONLY use filter tips!
+-   In this protocol, equipment/reagents available in the QIAGEN stool Kit will be marked in [blue]{style="color:blue"}. Equipment and supplies available in the SMAGL will be in [green]{style="color:green"}.
+-   You will use the following pieces of equipment: a [biosafety cabinet]{style="color:green"}, [fridge]{style="color:green"} (located below the **PCR workstation**), [pipettes]{style="color:green"} (the extraction set are located inside the **BSC** or at the **extraction workstation**), [microcentrifuge]{style="color:green"} (you will need to use the largest centrifuge at the **Centrifuge Station** as this is the only one that goes this fast) set to 20,000 rcf (not rpm), a [benchtop microcentrifuge]{style="color:green"} (located at the **quantification workstation**), a [heating block]{style="color:green"} set to 56 °C, a [waterbath]{style="color:green"} set to 70 °C (located at the **extraction workstation**), a [vortexer]{style="color:green"} (located at the **extraction workstation** or inside **BSC**), a [tube rocker]{style="color:green"} (located at the **extraction workstation**), and a [bead-beater]{style="color:green"} (located in the **BSC**)
+-   You will need [pipette tips]{style="color:green"} (located on shelves above the **PCR** or **quantification workstations**). ONLY use filter tips!
+-   You will need [2 mL]{style="color:green"} and [1.5 mL tubes]{style="color:green"} which must be **autoclaved** prior to use! You'll have to count ahead in the protocol based on how many samples you're running and how many tubes you'll need to figure out the amount so that you'll be prepared
+-   You will also need [96-100 % ethanol]{style="color:green"}
 
 ## Protocol
 
-1.  Label the same number of [PowerBead tubes]{style="color:blue"} as samples, plus one for a control
-2.  Vortex the fecal sample for a few seconds
-3.  Add 0.25 g of fecal matter to [PowerBead tubes]{style="color:blue"} (you will need to cut the tips off each pipette tip to make the point wide enough to be able to suck up the sample)
-4.  Add 250 𝜇l of [nuclease free water]{style="color:green"} to the control [PowerBead tube]{style="color:blue"}
-5.  Invert the [PowerBead solution]{style="color:blue"} a few times to mix
-6.  Add 750 𝜇l of [PowerBead solution]{style="color:blue"} to each [PowerBead tube]{style="color:blue"}
-7.  Add 60 𝜇l of [Solution C1]{style="color:blue"} to each tube (if the solution has precipitated, heat the solution to 60 °C until the precipitate has dissolved in either a [heating block]{style="color:green"} or [water bath]{style="color:green"})
-8.  Vortex each tube briefly
-9.  Incubate the tubes at 65 °C for 30 minutes in the [water bath]{style="color:green"} or [heating block]{style="color:green"} (the [heating block]{style="color:green"} can be cleaned and placed in the [BSC]{style="color:green"})
-10. Secure tubes in the [Bead Beater]{style="color:green"} (located in the [BSC]{style="color:green"}) and run for 5 minutes, pause for 30 seconds, and run again for 5 minutes (the original protocol says to run at 2000 RPM but our [Bead Beater]{style="color:green"} only has one speed, which is 3000 RPM)
-11. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 10,000 g (rcf) for 30 seconds (make sure that the centrifuge is **balanced**, the lid has been screwed closed and that the tubes can rotate freely in the centrifuge without rubbing)
-12. Check whether the sample in each tube has pelleted, if it has not you can centrifuge samples again for 3 minutes at the same speed
-13. Label clean 2 ml [Collection tubes]{style="color:blue"} with the same numbers as the [PowerBead tubes]{style="color:blue"}
-14. Pipette off the supernatant (\~ 400-500 𝜇l) off into the clean [Collection tubes]{style="color:blue"} (there may still be some bits of fecal material in the supernatant at this stage)
-15. Add 250 𝜇l of [Solution C2]{style="color:blue"} to each tube (this solution has Inhibitor Removal Technology; it contains a reagent that can precipitate non-DNA organic and inorganic material, including humic substances, cell debris and proteins. It is important to remove contaminating organic and inorganic matter that may reduce DNA purity and inhibit downstream DNA applications)
-16. Vortex tubes for 5 seconds
-17. Incubate tubes at 4 °C for 10 minutes (you can use the old [fridge]{style="color:green"})
-18. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 10,000 g (rcf) for 1 minute (make sure that the centrifuge is **balanced**, the lid has been screwed closed and that the tubes can rotate freely in the centrifuge without rubbing)
-19. Label a new set of clean 2 ml [Collection tubes]{style="color:blue"}
-20. Pipette off up to 600 𝜇l of the supernatant into the new set of [Collection tubes]{style="color:blue"} (make sure you only transfer the liquid and not any of the pellet. The pellet at this point contains non-DNA organic and inorganic material, including humic acid, cell debris and proteins. For best DNA yields and quality, avoid transferring any of the pellet)
-21. Add 200 𝜇l of [Solution C3]{style="color:blue"} to each tube (this solution has Inhibitor Removal Technology and is a second reagent to precipitate additional non-DNA organic and inorganic material including humic acid, cell debris and proteins. It is important to remove contaminating organic and inorganic matter that may reduce DNA purity and inhibit downstream DNA applications)
-22. Vortex each tube briefly
-23. Incubate tubes for 4 °C for 10 minutes (you can use the old [fridge]{style="color:green"})
-24. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 10,000 g (rcf) for 1 minute (make sure that the centrifuge is **balanced**, the lid has been screwed closed and that the tubes can rotate freely in the centrifuge without rubbing)
-25. Label a new set of clean 2 ml [Collection tubes]{style="color:blue"}
-26. Pipette off up to 750 𝜇l of the supernatant into the new set of [Collection tubes]{style="color:blue"} (make sure you only transfer the liquid and not any of the pellet. The pellet at this point contains non-DNA organic and inorganic material, including humic acid, cell debris and proteins. For best DNA yields and quality, avoid transferring any of the pellet)
-27. Shake [Solution C4]{style="color:blue"} to mix (this solution containsguanidine salts,which are **highly reactive. Do not mix or clean with bleach!!!** This solution is a high-concentration salt solution. Since DNA binds tightly to silica at high salt concentrations, this will adjust the DNA solution salt concentrations to allow binding of DNA, but not non-DNA organic and inorganic material that may still be present at low levels, to the [Spin Filter]{style="color:blue"})
-28. Add 1.2 ml of [Solution C4]{style="color:blue"} to each tube (this will fill the tube to the brim so pipette cautiously)
-29. Vortex each tube for 5 seconds
-30. Label clean [Spin Filter tubes]{style="color:blue"}
-31. Pipette 675 𝜇l of the supernatant into the [Spin Filter tubes]{style="color:blue"} making sure not to touch the filter with the pipette tip (DNA is selectively bound to the silica membrane in the MB Spin Column device in the high salt solution. Contaminants pass through the filter membrane, leaving only DNA bound to the membrane)
-32. Centrifuge the [Spin Filter tubes]{style="color:blue"} in the [microcentrifuge]{style="color:green"} at 10,000 g (rcf) for 1 minute (make sure that the centrifuge is **balanced** and the lid has been screwed closed)
-33. Discard the liquid flow through in the [Spin Filter tubes]{style="color:blue"} (to do this pull the filter portion of the tube up and pour the liquid out of the lower portion of the tube. Put the tube back together)
-34. Repeat steps 31 to 33 until all the supernatant has been passed through the [Spin Filter tubes]{style="color:blue"} (this will take 3x through the column)
-35. Add 500 𝜇l of [Solution C5]{style="color:blue"} to each [Spin Filter tube]{style="color:blue"} making sure not to touch the filter with the pipette tip (this solution is an ethanol-based wash solution used to further clean the DNA that is bound to the silica filter membrane in the [Spin Filter]{style="color:blue"}. This wash solution removes residual salt, humic acid, and other contaminants while allowing the DNA to stay bound to the silica membrane)
-36. Centrifuge the [Spin Filter tubes]{style="color:blue"} in the [microcentrifuge]{style="color:green"} at 10,000 g (rcf) for 30 seconds (make sure that the centrifuge is **balanced** and the lid has been screwed closed)
-37. Discard the liquid flow through in the [Spin Filter tubes]{style="color:blue"} (to do this pull the filter portion of the tube up and pour the liquid out of the lower portion of the tube. Put the tube back together)
-38. Centrifuge the [Spin Filter tubes]{style="color:blue"} a second time in the [microcentrifuge]{style="color:green"} at 10,000 g (rcf) for 1 minute (make sure that the centrifuge is **balanced** and the lid has been screwed closed. The second spin removes residual [Solution C5]{style="color:blue"}. It is critical to remove all traces of wash solution because the ethanol in this solution can interfere with many downstream DNA applications, such as PCR and gel electrophoresis)
-39. Label a new set of clean 2 ml [Collection tubes]{style="color:blue"} on both the top and sides! (These are the tubes going into the freezer, so labeling is extra important!)
-40. Place the [Spin Filters]{style="color:blue"} into these new [Collection tubes]{style="color:blue"} (to do this pull the filter portion of the tube up and place in the new tubes). Avoid splashing any [Solution C5]{style="color:blue"} into the [Spin Filters]{style="color:blue"})
-41. Incubate [Solution C6]{style="color:blue"} at 65 °C for 5 minutes in the [water bath]{style="color:green"} or [heating block]{style="color:green"}
-42. Add 100 𝜇l of [Solution C6]{style="color:blue"} to the center of each [Spin Filter]{style="color:blue"} making sure not to touch the filter with the pipette tip (pipetting the solution in the center of the small white membrane will make sure the entire membrane is wet. This will result in a more efficient and complete release of the DNA from the [Spin Filter]{style="color:blue"} membrane. As the solution passes through the silica membrane, DNA that was bound in the presence of high salt is selectively released by the solution, which lacks salt)
-43. Incubate the tubes at room temperature for 25 minutes
-44. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 10,000 g (rcf) for 30 seconds (make sure that the centrifuge is **balanced** and the lid has been screwed closed. This time each tube will have 2 lids, only close the inner lid and then place the samples in the centrifuge in pairs with an empty space between each pair. Cross the outer (open) lids of each pair trying to avoid the lids touching each other)
-45. Pull the filter portion of the tube up and cap the tube (you can either discard it or save them if you want to try and get more DNA out of them)
-46. The liquid in the tube contains the DNA from the samples and should be stored in the [-20 °C freezer]{style="color:green"} when not in use! (Be sure to record where in the freezer you've placed them, and make sure that they are all together in a single, clearly labeled container/rack)
-47. The next step is to quantify the DNA in the samples (this is done by measuring the dsDNA concentration using the [Quantus]{style="color:green"} and the sample A260/A280 using the [Nanodrop]{style="color:green"}, both are located at the **Extraction Workstation**). The results should be recorded in your lab notebook
+1.  Label the same number of [2ml tubes]{style="color:green"} as samples, plus one for a control
 
-```         
-- <input type="checkbox" unchecked> Venus</input>
-- <input type="checkbox" checked> Mars</input>
-```
+2.  Vortex the fecal sample for a few seconds
+
+3.  Pipet 200 𝜇l of fecal slurry into the tube (you will need to cut the tips off each pipette tip with a razor blade to make the point wide enough to be able to suck up the sample)
+
+4.  Add 1.6 ml of [Buffer ASL]{style="color:blue"} to each tube (if the solution has precipitated, dissolve by incubating at 70 °C in the [waterbath]{style="color:green"})
+
+5.  Vortex each tube for 1 minute or until the sample is thoroughly homogenized (It is very important to vortex the samples thoroughly. This helps ensure maximum DNA concentration in the final eluate)
+
+6.  Incubate samples at 56 ºC in the [heating block]{style="color:green"} for 30-60 min
+
+7.  Incubate samples at room temperature in the tube rocker for 30 minutes
+
+8.  An **optional** step is to further incubate the samples in the [heating block]{style="color:green"} at 23 ºC **overnight. THIS IS A POTENTIAL STOPPING POINT**
+
+9.  Increase the temperature of the [heating block]{style="color:green"} to 70 ºC
+
+10. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute to pellet stool particles (make sure that the centrifuge is **balanced**)
+
+11. Label a new set of [2 ml tubes]{style="color:green"}
+
+12. Pipet 1.4 ml of the supernatant into the new [2 ml tubes]{style="color:green"} and discard the pellet
+
+13. Add 1 [InhibitEX Tablet]{style="color:blue"} or 500 𝜇l of [liquid InhibitEX]{style="color:blue"} (newer kits have liquid, older have tablets) to each sample
+
+14. Vortex each sample immediately for 1 minute or until the [InhibitEX]{style="color:blue"} is completely suspended
+
+15. Incubate suspension for 1 min at room temperature to allow inhibitors to adsorb to the [InhibitEX]{style="color:blue"} matrix
+
+16. Label a new set of [1.5 ml tubes]{style="color:green"}
+
+17. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 3 minutes to pellet stool particles and inhibitors bound to the [InhibitEX]{style="color:blue"} matrix (make sure that the centrifuge is **balanced**)
+
+    -   **Note**: for difficult samples centrifugation for 3 minutes may result in a pellet that is not sufficiently compact. Therefore it may be difficult to remove enough supernatant to transfer 600 𝜇l supernatant after the next centrifugation step. In these cases, we recommend to centrifuge for 6 minutes
+    -   **Note**: When processing more than 12 samples, for this step and step 17 we recommend processing batches of no more than 12 samples each. This is because the pellets formed after centrifugation will break up quickly if the supernatant is not removed immediately
+
+18. Immediately after the [microcentrifuge]{style="color:green"} stops, pipet all of the supernatant into the clean [1.5 ml tubes]{style="color:green"} and discard the pellet (Transferring small quantities of pelleted material from the previous step will not affect the procedure)
+
+19. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 3 minutes (make sure that the centrifuge is **balanced**)
+
+20. Label a new set of [2 ml tubes]{style="color:green"}
+
+21. Pipet 25 𝜇l of [proteinase K]{style="color:blue"} into the newly labeled tubes
+
+22. Pipet 600 𝜇l supernatant from step 18 into the tubes containing the [proteinase K]{style="color:blue"}
+
+23. Add 600 𝜇l [Buffer AL]{style="color:blue"}
+
+    -   **Note**: do **NOT** add [proteinase K]{style="color:blue"} directly to [Buffer AL]{style="color:blue"}. It is essential that the sample and [Buffer AL]{style="color:blue"} are thoroughly mixed to form a homogeneous solution
+
+24. Vortex tubes for 15 seconds
+
+25. Incubate the tubes in the [heating block]{style="color:green"} at 70°C for 60 min
+
+    -   You may want to briefly centrifuge the tubes using the small [benchtop centrifuge]{style="color:green"} at the **Quantification Station** to remove drops from the inside of the tube lid (make sure that the centrifuge is **balanced**)
+
+26. Add 600 𝜇l of [96--100 % ethanol]{style="color:green"} to the lysate
+
+27. Vortex briefly
+
+    -   You may want to briefly centrifuge the tubes using the small [benchtop centrifuge]{style="color:green"} at the **Quantification Station** to remove drops from the inside of the tube lid (make sure that the centrifuge is **balanced**)
+
+28. Label the lid of a new set of [QIAamp spin columns]{style="color:blue"} and [2 ml collection tubes]{style="color:blue"}
+
+29. Carefully apply 600 𝜇l of the lysate to the [QIAamp spin columns]{style="color:blue"} without moistening the rim and close the cap
+
+30. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is **balanced**)
+
+31. Label a new set of [2 ml collection tubes]{style="color:blue"}
+
+32. Place the [QIAamp spin columns]{style="color:blue"} into the new set of labeled [2 ml collection tubes]{style="color:blue"} and discard the tubes containing the filtrate
+
+    -   **Note**: if the lysate has not completely passed through the column after centrifugation, centrifuge again until the [QIAamp spin column]{style="color:blue"} is empty
+
+33. Carefully open the [QIAamp spin column]{style="color:blue"}, apply a second aliquot of 600 𝜇l lysate and close the cap
+
+34. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is **balanced**)
+
+35. Label the lid of a new set of [2 ml collection tubes]{style="color:blue"}
+
+36. Place the [QIAamp spin columns]{style="color:blue"} into the new set of labeled [2 ml collection tubes]{style="color:blue"} and discard the tubes containing the filtrate
+
+    -   **Note**: if the lysate has not completely passed through the column after centrifugation, centrifuge again until the [QIAamp spin column]{style="color:blue"} is empty
+
+37. Carefully open the [QIAamp spin column]{style="color:blue"}, apply a third aliquot of 600 𝜇l lysate and close the cap
+
+38. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is **balanced**)
+
+39. Label the lid of a new set of [2 ml collection tubes]{style="color:blue"}
+
+40. Place the [QIAamp spin columns]{style="color:blue"} into the new set of labeled [2 ml collection tubes]{style="color:blue"} and discard the tubes containing the filtrate
+
+    -   **Note**: if the lysate has not completely passed through the column after centrifugation, centrifuge again until the [QIAamp spin column]{style="color:blue"} is empty
+
+41. Carefully open the [QIAamp spin column]{style="color:blue"} and add 500 𝜇l of [Buffer AW1]{style="color:blue"} and close the cap
+
+42. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is **balanced**)
+
+43. Label the lid of a new set of [2 ml collection tubes]{style="color:blue"}
+
+44. Place the [QIAamp spin columns]{style="color:blue"} into the new set of labeled [2 ml collection tubes]{style="color:blue"} and discard the tubes containing the filtrate
+
+45. Carefully open the [QIAamp spin column]{style="color:blue"} and add 500 𝜇l of [Buffer AW2]{style="color:blue"} and close the cap
+
+46. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 3 minutes (make sure that the centrifuge is **balanced**)
+
+    -   **Note**: residual [Buffer AW2]{style="color:blue"} in the eluate may cause problems in downstream applications. Some centrifuge rotors may vibrate upon deceleration, resulting in the flow-through, which contains [Buffer AW2]{style="color:blue"}, contacting the [QIAamp spin column]{style="color:blue"}. Removing the [QIAamp spin column]{style="color:blue"} and [collection tube]{style="color:blue"} from the rotor may also cause flow-through to come into contact with the [QIAamp spin column]{style="color:blue"}
+
+47. Label the lid of a new set of [2 ml collection tubes]{style="color:blue"}
+
+48. Place the [QIAamp spin columns]{style="color:blue"} into the new set of labeled [2 ml collection tubes]{style="color:blue"} and discard the tubes containing the filtrate
+
+49. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is **balanced**)
+
+    -   **Note**: this step is optional but recommended help eliminate the chance of [Buffer AW2]{style="color:blue"} carryover
+
+50. Label the lid of a new set of [2 ml collection tubes]{style="color:blue"}
+
+51. Place the [QIAamp spin columns]{style="color:blue"} into the new set of labeled [2 ml collection tubes]{style="color:blue"} and discard the tubes containing the filtrate (the filtrate should be minimal)
+
+52. Place [Buffer AE]{style="color:blue"} in the waterbath at 70 ºC to incubate for 10 minutes
+
+53. Label a new set of [1.5 ml tubes]{style="color:green"} (These are the tubes going into the freezer, so labeling is extra important!)
+
+54. Transfer the [QIAamp spin columns]{style="color:blue"} into the new set of [1.5 ml tubes]{style="color:green"}
+
+55.  Carefully open the [QIAamp spin columns]{style="color:blue"}, pipet 100 𝜇l of [Buffer AE]{style="color:blue"} directly onto the QIAamp membrane (do not touch the membrane with the pipette tip), and close the cap
+
+56. Incubate the tubes at room temperature for 25 minutes
+
+57. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute to elute the DNA (you will need to use the largest centrifuge at the **Centrifuge Station** as this is the only one that goes this fast)
+
+58. Pull the filter portion of the tube up and cap the tube (you can either discard it or save them if you want to try and get more DNA out of them)
+
+59. The liquid in the tube contains the DNA from the samples and should be stored in the [-20 °C freezer]{style="color:green"} when not in use! (Be sure to record where in the freezer you've placed them, and make sure that they are all together in a single, clearly labeled container/rack)
+
+60. The next step is to quantify the DNA in the samples (this is done by measuring the dsDNA concentration using the [Quantus]{style="color:green"} and the sample A260/A280 using the [Nanodrop]{style="color:green"}, both are located at the **Extraction Workstation**). The results should be recorded in your lab notebook
+
+    -   **Note**: DNA yield is typically 15--60 𝜇g but, depending on the individual stool sample and the way it was stored, may range from 5 to 100 𝜇g. DNA concentration is typically 75--300 ng/𝜇l
 
 # Feb 12 - Feb 18
 
@@ -151,3 +248,20 @@ This was the week we were supposed to start the extraction protocol, but got pos
 Fati: Practice Pipetting
 
 # Feb 20 - Feb 25
+
+<input type="checkbox" id="cbox3" value="third_checkbox"> <label for="cbox3"> Can I only select an ID? </label><br>
+
+# Feb 26 - Mar 3
+
+| Sample ID | Label | Final Concentration (ng/𝜇l) | **A260/A280 value** | Notes |
+|-----------|-------|-----------------------------|---------------------|-------|
+|           |       |                             |                     |       |
+|           |       |                             |                     |       |
+|           |       |                             |                     |       |
+|           |       |                             |                     |       |
+|           |       |                             |                     |       |
+|           |       |                             |                     |       |
+|           |       |                             |                     |       |
+|           |       |                             |                     |       |
+|           |       |                             |                     |       |
+|           |       |                             |                     |       |

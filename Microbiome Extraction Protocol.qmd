@@ -1,0 +1,95 @@
+---
+title: "Microbiome Extraction Protocol"
+format: html
+editor: visual
+---
+
+# Protocol (**DNeasy PowerLyzer PowerSoil Kit)**
+
+This protocol is modified from the protocol developed by Mel Zarate in the SMAGL lab following a template from Dr. Liz Mallott (Washington University in St. Louis)
+
+## General notes before starting
+
+1.  Ensure that you are wearing suitable PPE: a lab coat, protective eye glasses and gloves (you can consult the appropriate safety data sheets from product suppliers if you have any doubts)
+
+2.  Turn on the biosafety cabinet (BSC) and let it run for a minimum of 15 minutes before starting the protocol
+
+3.  Turn on the water bath and set it to 65 °C
+
+4.  Make up a new batch of 10% bleach solution (1 part bleach to 9 parts distilled water) for the day and dispose of any from previous days. Be sure to appropriately label the vessel with date and contents!
+
+5.  Clean all pipettes and work surfaces (including inside the biosafety cabinet) first with the bleach solution, then distilled water, and finally with 70% ethanol
+
+6.  Ensure that you have sufficient supplies (i.e., autoclaved, sterile tubes, pipette tips, etc.) before beginning
+
+7.  UV all tubes, pipettes and pipette tips in either the BSC or the PCR hood for 10 minutes before starting (be careful to limit your exposure to the UV light!)
+
+8.  Removed samples to be extracted from the freezer and let them thaw on ice
+
+## Notes on the protocol
+
+-   Make sure to label all tubes on both the top and sides (it is easy for labels to get rubbed off during the protocol)
+
+-   Always include a control sample of sterile/DNAse free water for every extraction so that you can detect potential contamination!
+
+-   Perform all centrifugation steps at room temperature (15--25 °C).
+
+-   If **Solution C1** has precipitated, heat at 60 °C until the precipitate dissolves.
+
+-   Shake to mix **Solution C4** before use.
+
+## Required equipment and supplies
+
+-   In this protocol, equipment/reagents available in the DNeasy PowerLyzer PowerSoil Kit will be marked in [blue]{style="color:blue"}. Equipment and supplies available in the SMAGL will be in [green]{style="color:green"}.
+-   You will use the following pieces of equipment: a [biosafety cabinet]{style="color:green"}, [fridge]{style="color:green"} (located below the **PCR workstation**), [pipettes]{style="color:green"} (the extraction set are located inside the **BSC** or at the **extraction workstation**), [microcentrifuge]{style="color:green"} (located at **centrifuge workstation**) set to 10,000 rcf (not rpm), a [heating block]{style="color:green"} or [waterbath]{style="color:green"} set to 65 °C (located at the **extraction workstation**), a [vortexer]{style="color:green"} (located at the **extraction workstation** or inside **BSC**) and a [bead-beater]{style="color:green"} (located in the **BSC**)
+-   You will also need [pipette tips]{style="color:green"} (located on shelves above the **PCR** or **quantification workstations**). ONLY use filter tips!
+
+## Protocol
+
+1.  Label the same number of [PowerBead tubes]{style="color:blue"} as samples, plus one for a control
+2.  Vortex the fecal sample for a few seconds
+3.  Add 0.25 g of fecal matter to [PowerBead tubes]{style="color:blue"} (you will need to cut the tips off each pipette tip with a razor blade to make the point wide enough to be able to suck up the sample)
+4.  Add 250 𝜇l of [nuclease free water]{style="color:green"} to the control [PowerBead tube]{style="color:blue"}
+5.  Invert the [PowerBead solution]{style="color:blue"} a few times to mix
+6.  Add 750 𝜇l of [PowerBead solution]{style="color:blue"} to each [PowerBead tube]{style="color:blue"}
+7.  Add 60 𝜇l of [Solution C1]{style="color:blue"} to each tube (if the solution has precipitated, heat the solution to 60 °C until the precipitate has dissolved in either a [heating block]{style="color:green"} or [water bath]{style="color:green"})
+8.  Vortex each tube briefly
+9.  Incubate the tubes at 65 °C for 30 minutes in the [water bath]{style="color:green"} or [heating block]{style="color:green"} (the [heating block]{style="color:green"} can be cleaned and placed in the [BSC]{style="color:green"})
+10. Secure tubes in the [Bead Beater]{style="color:green"} (located in the [BSC]{style="color:green"}) and run for 5 minutes, pause for 30 seconds, and run again for 5 minutes (the original protocol says to run at 2000 RPM but our [Bead Beater]{style="color:green"} only has one speed, which is 3000 RPM)
+11. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 10,000 g (rcf) for 30 seconds (make sure that the centrifuge is **balanced**, the lid has been screwed closed and that the tubes can rotate freely in the centrifuge without rubbing)
+12. Check whether the sample in each tube has pelleted, if it has not you can centrifuge samples again for 3 minutes at the same speed
+13. Label clean 2 ml [Collection tubes]{style="color:blue"} with the same numbers as the [PowerBead tubes]{style="color:blue"}
+14. Pipette off the supernatant (\~ 400-500 𝜇l) off into the clean [Collection tubes]{style="color:blue"} (there may still be some bits of fecal material in the supernatant at this stage)
+15. Add 250 𝜇l of [Solution C2]{style="color:blue"} to each tube (this solution has Inhibitor Removal Technology; it contains a reagent that can precipitate non-DNA organic and inorganic material, including humic substances, cell debris and proteins. It is important to remove contaminating organic and inorganic matter that may reduce DNA purity and inhibit downstream DNA applications)
+16. Vortex tubes for 5 seconds
+17. Incubate tubes at 4 °C for 10 minutes (you can use the old [fridge]{style="color:green"})
+18. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 10,000 g (rcf) for 1 minute (make sure that the centrifuge is **balanced**, the lid has been screwed closed and that the tubes can rotate freely in the centrifuge without rubbing)
+19. Label a new set of clean 2 ml [Collection tubes]{style="color:blue"}
+20. Pipette off up to 600 𝜇l of the supernatant into the new set of [Collection tubes]{style="color:blue"} (make sure you only transfer the liquid and not any of the pellet. The pellet at this point contains non-DNA organic and inorganic material, including humic acid, cell debris and proteins. For best DNA yields and quality, avoid transferring any of the pellet)
+21. Add 200 𝜇l of [Solution C3]{style="color:blue"} to each tube (this solution has Inhibitor Removal Technology and is a second reagent to precipitate additional non-DNA organic and inorganic material including humic acid, cell debris and proteins. It is important to remove contaminating organic and inorganic matter that may reduce DNA purity and inhibit downstream DNA applications)
+22. Vortex each tube briefly
+23. Incubate tubes for 4 °C for 10 minutes (you can use the old [fridge]{style="color:green"})
+24. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 10,000 g (rcf) for 1 minute (make sure that the centrifuge is **balanced**, the lid has been screwed closed and that the tubes can rotate freely in the centrifuge without rubbing)
+25. Label a new set of clean 2 ml [Collection tubes]{style="color:blue"}
+26. Pipette off up to 750 𝜇l of the supernatant into the new set of [Collection tubes]{style="color:blue"} (make sure you only transfer the liquid and not any of the pellet. The pellet at this point contains non-DNA organic and inorganic material, including humic acid, cell debris and proteins. For best DNA yields and quality, avoid transferring any of the pellet)
+27. Shake [Solution C4]{style="color:blue"} to mix (this solution containsguanidine salts,which are **highly reactive. Do not mix or clean with bleach!!!** This solution is a high-concentration salt solution. Since DNA binds tightly to silica at high salt concentrations, this will adjust the DNA solution salt concentrations to allow binding of DNA, but not non-DNA organic and inorganic material that may still be present at low levels, to the [Spin Filter]{style="color:blue"})
+28. Add 1.2 ml of [Solution C4]{style="color:blue"} to each tube (this will fill the tube to the brim so pipette cautiously)
+29. Vortex each tube for 5 seconds
+30. Label clean [Spin Filter tubes]{style="color:blue"}
+31. Pipette 675 𝜇l of the supernatant into the [Spin Filter tubes]{style="color:blue"} making sure not to touch the filter with the pipette tip (DNA is selectively bound to the silica membrane in the MB Spin Column device in the high salt solution. Contaminants pass through the filter membrane, leaving only DNA bound to the membrane)
+32. Centrifuge the [Spin Filter tubes]{style="color:blue"} in the [microcentrifuge]{style="color:green"} at 10,000 g (rcf) for 1 minute (make sure that the centrifuge is **balanced** and the lid has been screwed closed)
+33. Discard the liquid flow through in the [Spin Filter tubes]{style="color:blue"} (to do this pull the filter portion of the tube up and pour the liquid out of the lower portion of the tube. Put the tube back together)
+34. Repeat steps 31 to 33 until all the supernatant has been passed through the [Spin Filter tubes]{style="color:blue"} (this will take 3x through the column)
+35. Add 500 𝜇l of [Solution C5]{style="color:blue"} to each [Spin Filter tube]{style="color:blue"} making sure not to touch the filter with the pipette tip (this solution is an ethanol-based wash solution used to further clean the DNA that is bound to the silica filter membrane in the [Spin Filter]{style="color:blue"}. This wash solution removes residual salt, humic acid, and other contaminants while allowing the DNA to stay bound to the silica membrane)
+36. Centrifuge the [Spin Filter tubes]{style="color:blue"} in the [microcentrifuge]{style="color:green"} at 10,000 g (rcf) for 30 seconds (make sure that the centrifuge is **balanced** and the lid has been screwed closed)
+37. Discard the liquid flow through in the [Spin Filter tubes]{style="color:blue"} (to do this pull the filter portion of the tube up and pour the liquid out of the lower portion of the tube. Put the tube back together)
+38. Centrifuge the [Spin Filter tubes]{style="color:blue"} a second time in the [microcentrifuge]{style="color:green"} at 10,000 g (rcf) for 1 minute (make sure that the centrifuge is **balanced** and the lid has been screwed closed. The second spin removes residual [Solution C5]{style="color:blue"}. It is critical to remove all traces of wash solution because the ethanol in this solution can interfere with many downstream DNA applications, such as PCR and gel electrophoresis)
+39. Label a new set of clean 2 ml [Collection tubes]{style="color:blue"} on both the top and sides! (These are the tubes going into the freezer, so labeling is extra important!)
+40. Place the [Spin Filters]{style="color:blue"} into these new [Collection tubes]{style="color:blue"} (to do this pull the filter portion of the tube up and place in the new tubes). Avoid splashing any [Solution C5]{style="color:blue"} into the [Spin Filters]{style="color:blue"})
+41. Incubate [Solution C6]{style="color:blue"} at 65 °C for 5 minutes in the [water bath]{style="color:green"} or [heating block]{style="color:green"}
+42. Add 100 𝜇l of [Solution C6]{style="color:blue"} to the center of each [Spin Filter]{style="color:blue"} making sure not to touch the filter with the pipette tip (pipetting the solution in the center of the small white membrane will make sure the entire membrane is wet. This will result in a more efficient and complete release of the DNA from the [Spin Filter]{style="color:blue"} membrane. As the solution passes through the silica membrane, DNA that was bound in the presence of high salt is selectively released by the solution, which lacks salt)
+43. Incubate the tubes at room temperature for 25 minutes
+44. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 10,000 g (rcf) for 30 seconds (make sure that the centrifuge is **balanced** and the lid has been screwed closed. This time each tube will have 2 lids, only close the inner lid and then place the samples in the centrifuge in pairs with an empty space between each pair. Cross the outer (open) lids of each pair trying to avoid the lids touching each other)
+45. Pull the filter portion of the tube up and cap the tube (you can either discard it or save them if you want to try and get more DNA out of them)
+46. The liquid in the tube contains the DNA from the samples and should be stored in the [-20 °C freezer]{style="color:green"} when not in use! (Be sure to record where in the freezer you've placed them, and make sure that they are all together in a single, clearly labeled container/rack)
+47. The next step is to quantify the DNA in the samples (this is done by measuring the dsDNA concentration using the [Quantus]{style="color:green"} and the sample A260/A280 using the [Nanodrop]{style="color:green"}, both are located at the **Extraction Workstation**). The results should be recorded in your lab notebook
