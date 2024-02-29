@@ -68,6 +68,7 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="brief-github-protocol-jimmy" class="level1">
 <h1>Brief Github protocol (Jimmy)</h1>
+<p>JRE</p>
 <ul>
 <li><p>Install Git</p></li>
 <li><p>Import in project via version control</p></li>
@@ -79,18 +80,21 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li>If you need to pull anything, pull it (you’ll be prompted)</li>
 </ul></li>
-<li><p>If there are any hiccups, follow the instructions in the R terminal</p></li>
+<li><p>If there are any hiccups, follow the instructions in the R terminal (git merge –abort is your best friend!)</p></li>
 <li><p>Push!</p></li>
 <li><p>Make sure to pull before you get started in the future!</p></li>
 </ul>
 </section>
 <section id="background-and-goals" class="level1">
 <h1>Background and goals</h1>
-<p>TBA</p>
-</section>
-<section id="revised-protocol" class="level1">
-<h1>Revised Protocol</h1>
-<p><strong>SMAGL Microbiome Extractions: DNeasy PowerLyzer PowerSoil Kit</strong></p>
+<p>ELP</p>
+<p>Our internship team has 4 main goals:</p>
+<ol type="1">
+<li><p>To gain familiarity with genomics/genetics literature and theory through the assigned readings</p></li>
+<li><p>To get practice with the lab skills necessary for extraction, PCR and sequencing (with the Oxford Nanopore MinION)</p></li>
+<li><p>To develop a working protocol to DNA metabarcode woolly fecal samples to detect insects (and plants?) in their diet</p></li>
+</ol>
+<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD <strong>SMAGL Microbiome Extractions: DNeasy PowerLyzer PowerSoil Kit</strong></p>
 </section>
 <section id="authors-developed-for-the-smagl-by-melissa-zarate-schmitt-lab-based-on-a-template-provided-by-dr.-liz-mallott-washington-university-in-st.-louis" class="level1">
 <h1>Authors: Developed for the SMAGL by Melissa Zarate (Schmitt Lab) based on a template provided by Dr.&nbsp;Liz Mallott (Washington University in St.&nbsp;Louis)</h1>
@@ -331,14 +335,287 @@ ul.task-list li input[type="checkbox"] {
 </table>
 <p><br>
 </p>
+<p>=======</p>
+<ol start="4" type="1">
+<li>To practice bioinformatics skills by identifying and comparing the species eaten by YTWMs and common woolly monkeys &gt;&gt;&gt;&gt;&gt;&gt;&gt; 204b9549b8137b16f8ac27777b005e85beadd310</li>
+</ol>
 <p><br>
 </p>
+<p>ELP</p>
+</section>
+</section>
+<section id="extraction-protocol-qiagen-stool-kit" class="level1">
+<h1>Extraction Protocol (<strong>QIAGEN Stool Kit)</strong></h1>
+<p>This protocol is modified from the protocol developed by Mel Zarate in the SMAGL lab following modifications based on published protocols by Tony Di Fiore (University of Texas at Austin)</p>
+<section id="general-notes-before-starting" class="level2">
+<h2 class="anchored" data-anchor-id="general-notes-before-starting">General notes before starting</h2>
+<ul>
+<li><p>Ensure that you are wearing suitable PPE: a lab coat, protective eye glasses and gloves (you can consult the appropriate safety data sheets from product suppliers if you have any doubts)</p></li>
+<li><p>Turn on the biosafety cabinet (BSC) and let it run for a minimum of 15 minutes before starting the protocol</p></li>
+<li><p>Turn on the water bath and set it to 70 °C</p></li>
+<li><p>Turn on the heat block and set it to 56 °C</p></li>
+<li><p>Make up a new batch of 10% bleach solution (1 part bleach to 9 parts distilled water) for the day and dispose of any from previous days. Be sure to appropriately label the vessel with date and contents!</p></li>
+<li><p>Aliquot sufficient 96-100% <strong>ethanol</strong> (available in the <strong>Flammables Cabinet</strong>) to a smaller vessel for use later in the protocol. Be sure to appropriately label the vessel with date and contents!</p></li>
+<li><p>Clean all pipettes and work surfaces (including inside the biosafety cabinet) first with the bleach solution, then distilled water, and finally with 70% ethanol</p></li>
+<li><p>Ensure that you have sufficient supplies (i.e., autoclaved, sterile tubes, pipette tips, etc.) before beginning</p></li>
+<li><p>UV all tubes, pipettes and pipette tips in either the BSC or the PCR hood for 10 minutes before starting (be careful to limit your exposure to the UV light!)</p></li>
+<li><p>Removed samples to be extracted from the freezer and let them thaw on ice</p></li>
+</ul>
+</section>
+<section id="notes-on-the-protocol" class="level2">
+<h2 class="anchored" data-anchor-id="notes-on-the-protocol">Notes on the protocol</h2>
+<ul>
+<li><p>Make sure to label all tubes on both the top and sides (it is easy for labels to get rubbed off during the protocol)</p></li>
+<li><p>Always include a control sample of sterile/DNAse free water for every extraction so that you can detect potential contamination!</p></li>
+<li><p>Perform all centrifugation steps at room temperature (15–25 °C)</p></li>
+<li><p>The 2 ml tubes used in step 4 should be wide enough to accommodate an InhibitEX Tablet. If it’s not wide enough, you may need to break up the tablet to insert</p></li>
+</ul>
+</section>
+<section id="required-equipment-and-supplies" class="level2">
+<h2 class="anchored" data-anchor-id="required-equipment-and-supplies">Required equipment and supplies</h2>
+<ul>
+<li>In this protocol, equipment/reagents available in the QIAGEN stool Kit will be marked in <span style="color:blue">blue</span>. Equipment and supplies available in the SMAGL will be in <span style="color:green">green</span>.</li>
+<li>You will use the following pieces of equipment: a <span style="color:green">biosafety cabinet</span>, <span style="color:green">fridge</span> (located below the <strong>PCR workstation</strong>), <span style="color:green">pipettes</span> (the extraction set are located inside the <strong>BSC</strong> or at the <strong>extraction workstation</strong>), <span style="color:green">microcentrifuge</span> (you will need to use the largest centrifuge at the <strong>Centrifuge Station</strong> as this is the only one that goes this fast) set to 20,000 rcf (not rpm), a <span style="color:green">benchtop microcentrifuge</span> (located at the <strong>quantification workstation</strong>), a <span style="color:green">heating block</span> set to 56 °C, a <span style="color:green">waterbath</span> set to 70 °C (located at the <strong>extraction workstation</strong>), a <span style="color:green">vortexer</span> (located at the <strong>extraction workstation</strong> or inside <strong>BSC</strong>), a <span style="color:green">tube rocker</span> (located at the <strong>extraction workstation</strong>), and a <span style="color:green">bead-beater</span> (located in the <strong>BSC</strong>)</li>
+<li>You will need <span style="color:green">pipette tips</span> (located on shelves above the <strong>PCR</strong> or <strong>quantification workstations</strong>). ONLY use filter tips!</li>
+<li>You will need <span style="color:green">2 mL</span> and <span style="color:green">1.5 mL tubes</span> which must be <strong>autoclaved</strong> prior to use! You’ll have to count ahead in the protocol based on how many samples you’re running and how many tubes you’ll need to figure out the amount so that you’ll be prepared</li>
+<li>You will also need <span style="color:green">96-100 % ethanol</span></li>
+</ul>
+</section>
+<section id="protocol" class="level2">
+<h2 class="anchored" data-anchor-id="protocol">Protocol</h2>
+<ol type="1">
+<li><p>Label the same number of <span style="color:green">2ml tubes</span> as samples, plus one for a control</p></li>
+<li><p>Vortex the fecal sample for a few seconds</p></li>
+<li><p>Pipet 200 𝜇l of fecal slurry into the tube (you will need to cut the tips off each pipette tip with a razor blade to make the point wide enough to be able to suck up the sample)</p></li>
+<li><p>Add 1.6 ml of <span style="color:blue">Buffer ASL</span> to each tube (if the solution has precipitated, dissolve by incubating at 70 °C in the <span style="color:green">waterbath</span>)</p></li>
+<li><p>Vortex each tube for 1 minute or until the sample is thoroughly homogenized (It is very important to vortex the samples thoroughly. This helps ensure maximum DNA concentration in the final eluate)</p></li>
+<li><p>Incubate samples at 56 ºC in the <span style="color:green">heating block</span> for 30-60 min</p></li>
+<li><p>Incubate samples at room temperature in the tube rocker for 30 minutes</p></li>
+<li><p>An <strong>optional</strong> step is to further incubate the samples in the <span style="color:green">heating block</span> at 23 ºC <strong>overnight. THIS IS A POTENTIAL STOPPING POINT</strong></p></li>
+<li><p>Increase the temperature of the <span style="color:green">heating block</span> to 70 ºC</p></li>
+<li><p>Centrifuge the tubes in the <span style="color:green">microcentrifuge</span> at 20,000 rcf (not rpm) for 1 minute to pellet stool particles (make sure that the centrifuge is <strong>balanced</strong>)</p></li>
+<li><p>Label a new set of <span style="color:green">2 ml tubes</span></p></li>
+<li><p>Pipet 1.4 ml of the supernatant into the new <span style="color:green">2 ml tubes</span> and discard the pellet</p></li>
+<li><p>Add 1 <span style="color:blue">InhibitEX Tablet</span> or 500 𝜇l of <span style="color:blue">liquid InhibitEX</span> (newer kits have liquid, older have tablets) to each sample</p></li>
+<li><p>Vortex each sample immediately for 1 minute or until the <span style="color:blue">InhibitEX</span> is completely suspended</p></li>
+<li><p>Incubate suspension for 1 min at room temperature to allow inhibitors to adsorb to the <span style="color:blue">InhibitEX</span> matrix</p></li>
+<li><p>Label a new set of <span style="color:green">1.5 ml tubes</span></p></li>
+<li><p>Centrifuge the tubes in the <span style="color:green">microcentrifuge</span> at 20,000 rcf (not rpm) for 3 minutes to pellet stool particles and inhibitors bound to the <span style="color:blue">InhibitEX</span> matrix (make sure that the centrifuge is <strong>balanced</strong>)</p>
+<ul>
+<li><strong>Note</strong>: for difficult samples centrifugation for 3 minutes may result in a pellet that is not sufficiently compact. Therefore it may be difficult to remove enough supernatant to transfer 600 𝜇l supernatant after the next centrifugation step. In these cases, we recommend to centrifuge for 6 minutes</li>
+<li><strong>Note</strong>: When processing more than 12 samples, for this step and step 17 we recommend processing batches of no more than 12 samples each. This is because the pellets formed after centrifugation will break up quickly if the supernatant is not removed immediately</li>
+</ul></li>
+<li><p>Immediately after the <span style="color:green">microcentrifuge</span> stops, pipet all of the supernatant into the clean <span style="color:green">1.5 ml tubes</span> and discard the pellet (Transferring small quantities of pelleted material from the previous step will not affect the procedure)</p></li>
+<li><p>Centrifuge the tubes in the <span style="color:green">microcentrifuge</span> at 20,000 rcf (not rpm) for 3 minutes (make sure that the centrifuge is <strong>balanced</strong>)</p></li>
+<li><p>Label a new set of <span style="color:green">2 ml tubes</span></p></li>
+<li><p>Pipet 25 𝜇l of <span style="color:blue">proteinase K</span> into the newly labeled tubes</p></li>
+<li><p>Pipet 600 𝜇l supernatant from step 18 into the tubes containing the <span style="color:blue">proteinase K</span></p></li>
+<li><p>Add 600 𝜇l <span style="color:blue">Buffer AL</span></p>
+<ul>
+<li><strong>Note</strong>: do <strong>NOT</strong> add <span style="color:blue">proteinase K</span> directly to <span style="color:blue">Buffer AL</span>. It is essential that the sample and <span style="color:blue">Buffer AL</span> are thoroughly mixed to form a homogeneous solution</li>
+</ul></li>
+<li><p>Vortex tubes for 15 seconds</p></li>
+<li><p>Incubate the tubes in the <span style="color:green">heating block</span> at 70°C for 60 min</p>
+<ul>
+<li>You may want to briefly centrifuge the tubes using the small <span style="color:green">benchtop centrifuge</span> at the <strong>Quantification Station</strong> to remove drops from the inside of the tube lid (make sure that the centrifuge is <strong>balanced</strong>)</li>
+</ul></li>
+<li><p>Add 600 𝜇l of <span style="color:green">96–100 % ethanol</span> to the lysate</p></li>
+<li><p>Vortex briefly</p>
+<ul>
+<li>You may want to briefly centrifuge the tubes using the small <span style="color:green">benchtop centrifuge</span> at the <strong>Quantification Station</strong> to remove drops from the inside of the tube lid (make sure that the centrifuge is <strong>balanced</strong>)</li>
+</ul></li>
+<li><p>Label the lid of a new set of <span style="color:blue">QIAamp spin columns</span> and <span style="color:blue">2 ml collection tubes</span></p></li>
+<li><p>Carefully apply 600 𝜇l of the lysate to the <span style="color:blue">QIAamp spin columns</span> without moistening the rim and close the cap</p></li>
+<li><p>Centrifuge the tubes in the <span style="color:green">microcentrifuge</span> at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is <strong>balanced</strong>)</p></li>
+<li><p>Label a new set of <span style="color:blue">2 ml collection tubes</span></p></li>
+<li><p>Place the <span style="color:blue">QIAamp spin columns</span> into the new set of labeled <span style="color:blue">2 ml collection tubes</span> and discard the tubes containing the filtrate</p>
+<ul>
+<li><strong>Note</strong>: if the lysate has not completely passed through the column after centrifugation, centrifuge again until the <span style="color:blue">QIAamp spin column</span> is empty</li>
+</ul></li>
+<li><p>Carefully open the <span style="color:blue">QIAamp spin column</span>, apply a second aliquot of 600 𝜇l lysate and close the cap</p></li>
+<li><p>Centrifuge the tubes in the <span style="color:green">microcentrifuge</span> at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is <strong>balanced</strong>)</p></li>
+<li><p>Label the lid of a new set of <span style="color:blue">2 ml collection tubes</span></p></li>
+<li><p>Place the <span style="color:blue">QIAamp spin columns</span> into the new set of labeled <span style="color:blue">2 ml collection tubes</span> and discard the tubes containing the filtrate</p>
+<ul>
+<li><strong>Note</strong>: if the lysate has not completely passed through the column after centrifugation, centrifuge again until the <span style="color:blue">QIAamp spin column</span> is empty</li>
+</ul></li>
+<li><p>Carefully open the <span style="color:blue">QIAamp spin column</span>, apply a third aliquot of 600 𝜇l lysate and close the cap</p></li>
+<li><p>Centrifuge the tubes in the <span style="color:green">microcentrifuge</span> at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is <strong>balanced</strong>)</p></li>
+<li><p>Label the lid of a new set of <span style="color:blue">2 ml collection tubes</span></p></li>
+<li><p>Place the <span style="color:blue">QIAamp spin columns</span> into the new set of labeled <span style="color:blue">2 ml collection tubes</span> and discard the tubes containing the filtrate</p>
+<ul>
+<li><strong>Note</strong>: if the lysate has not completely passed through the column after centrifugation, centrifuge again until the <span style="color:blue">QIAamp spin column</span> is empty</li>
+</ul></li>
+<li><p>Carefully open the <span style="color:blue">QIAamp spin column</span> and add 500 𝜇l of <span style="color:blue">Buffer AW1</span> and close the cap</p></li>
+<li><p>Centrifuge the tubes in the <span style="color:green">microcentrifuge</span> at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is <strong>balanced</strong>)</p></li>
+<li><p>Label the lid of a new set of <span style="color:blue">2 ml collection tubes</span></p></li>
+<li><p>Place the <span style="color:blue">QIAamp spin columns</span> into the new set of labeled <span style="color:blue">2 ml collection tubes</span> and discard the tubes containing the filtrate</p></li>
+<li><p>Carefully open the <span style="color:blue">QIAamp spin column</span> and add 500 𝜇l of <span style="color:blue">Buffer AW2</span> and close the cap</p></li>
+<li><p>Centrifuge the tubes in the <span style="color:green">microcentrifuge</span> at 20,000 rcf (not rpm) for 3 minutes (make sure that the centrifuge is <strong>balanced</strong>)</p>
+<ul>
+<li><strong>Note</strong>: residual <span style="color:blue">Buffer AW2</span> in the eluate may cause problems in downstream applications. Some centrifuge rotors may vibrate upon deceleration, resulting in the flow-through, which contains <span style="color:blue">Buffer AW2</span>, contacting the <span style="color:blue">QIAamp spin column</span>. Removing the <span style="color:blue">QIAamp spin column</span> and <span style="color:blue">collection tube</span> from the rotor may also cause flow-through to come into contact with the <span style="color:blue">QIAamp spin column</span></li>
+</ul></li>
+<li><p>Label the lid of a new set of <span style="color:blue">2 ml collection tubes</span></p></li>
+<li><p>Place the <span style="color:blue">QIAamp spin columns</span> into the new set of labeled <span style="color:blue">2 ml collection tubes</span> and discard the tubes containing the filtrate</p></li>
+<li><p>Centrifuge the tubes in the <span style="color:green">microcentrifuge</span> at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is <strong>balanced</strong>)</p>
+<ul>
+<li><strong>Note</strong>: this step is optional but recommended help eliminate the chance of <span style="color:blue">Buffer AW2</span> carryover</li>
+</ul></li>
+<li><p>Label the lid of a new set of <span style="color:blue">2 ml collection tubes</span></p></li>
+<li><p>Place the <span style="color:blue">QIAamp spin columns</span> into the new set of labeled <span style="color:blue">2 ml collection tubes</span> and discard the tubes containing the filtrate (the filtrate should be minimal)</p></li>
+<li><p>Place <span style="color:blue">Buffer AE</span> in the waterbath at 70 ºC to incubate for 10 minutes</p></li>
+<li><p>Label a new set of <span style="color:green">1.5 ml tubes</span> (These are the tubes going into the freezer, so labeling is extra important!)</p></li>
+<li><p>Transfer the <span style="color:blue">QIAamp spin columns</span> into the new set of <span style="color:green">1.5 ml tubes</span></p></li>
+<li><p>Carefully open the <span style="color:blue">QIAamp spin columns</span>, pipet 100 𝜇l of <span style="color:blue">Buffer AE</span> directly onto the QIAamp membrane (do not touch the membrane with the pipette tip), and close the cap</p></li>
+<li><p>Incubate the tubes at room temperature for 25 minutes</p></li>
+<li><p>Centrifuge the tubes in the <span style="color:green">microcentrifuge</span> at 20,000 rcf (not rpm) for 1 minute to elute the DNA (you will need to use the largest centrifuge at the <strong>Centrifuge Station</strong> as this is the only one that goes this fast)</p></li>
+<li><p>Pull the filter portion of the tube up and cap the tube (you can either discard it or save them if you want to try and get more DNA out of them)</p></li>
+<li><p>The liquid in the tube contains the DNA from the samples and should be stored in the <span style="color:green">-20 °C freezer</span> when not in use! (Be sure to record where in the freezer you’ve placed them, and make sure that they are all together in a single, clearly labeled container/rack)</p></li>
+<li><p>The next step is to quantify the DNA in the samples (this is done by measuring the dsDNA concentration using the <span style="color:green">Quantus</span> and the sample A260/A280 using the <span style="color:green">Nanodrop</span>, both are located at the <strong>Extraction Workstation</strong>). The results should be recorded in your lab notebook</p>
+<ul>
+<li><strong>Note</strong>: DNA yield is typically 15–60 𝜇g but, depending on the individual stool sample and the way it was stored, may range from 5 to 100 𝜇g. DNA concentration is typically 75–300 ng/𝜇l</li>
+</ul></li>
+</ol>
 </section>
 </section>
 <section id="feb-12---feb-18" class="level1">
 <h1>Feb 12 - Feb 18</h1>
-<p>TBA</p>
+<p>JRE</p>
+<p>This was the week we were supposed to start the extraction protocol, but got postponed.</p>
 <p>Fati: Practice Pipetting</p>
+</section>
+<section id="feb-20---feb-25" class="level1">
+<h1>Feb 20 - Feb 25</h1>
+<p><input type="checkbox" id="cbox3" value="third_checkbox"> <label for="cbox3"> Can I only select an ID? </label><br></p>
+</section>
+<section id="feb-26---mar-3" class="level1">
+<h1>Feb 26 - Mar 3</h1>
+<p>February 29, 2024:</p>
+<ol type="1">
+<li><p>Pipet 200 𝜇l of fecal slurry into the microcentrifuge tube. You may need to cut the end of the pipet tip with a razor blade, if necessary, to make pipetting easier. Remember to vortex the sample prior to pipetting, to make sure you are getting a good mixture of buffer and feces.</p></li>
+<li><p>Add 1.6 ml Buffer ASL to each stool sample. Vortex continuously for 1 min or until the stool sample is thoroughly homogenized. Note: It is very important to vortex the samples thoroughly. This helps ensure maximum DNA concentration in the final eluate.</p></li>
+<li><p>Incubate samples at 56ºC in the Dry Bath for 30-60 min, then for an additional 30 min on Tube Rocker. Incubate at 56ºC in Dry Bath for 30-60 min</p></li>
+</ol>
+<p>[We’re doing 60 minutes JRE]</p>
+<p>Incubate on the Tube Rocker for 30 min Optional: further incubate in the Dry Bath at 23ºC degrees overnight.</p>
+<table class="table">
+<colgroup>
+<col style="width: 13%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 36%">
+<col style="width: 25%">
+<col style="width: 8%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Sample ID</th>
+<th>Taxon</th>
+<th>Label</th>
+<th>Final Concentration (ng/𝜇l)</th>
+<th><strong>A260/A280 value</strong></th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Control (sterile water)</td>
+<td>NA</td>
+<td>AGI24-DBCL</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>GOMEZ-18-190</td>
+<td>Lagothrix lagotricha</td>
+<td>AGI24-DB01</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>VOYT-18-029</td>
+<td>Lagothrix lagotricha</td>
+<td>AGI24-DB02</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>VOYT-18-017</td>
+<td>Lagothrix lagotricha</td>
+<td>AGI24-DB03</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>VOYT-18-036</td>
+<td>Lagothrix lagotricha</td>
+<td>AGI24-DB04</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>GIUNCHI-18-001</td>
+<td>Lagothrix lagotricha</td>
+<td>AGI24-DB05</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>DIFIORE-18-025</td>
+<td>Lagothrix lagotricha</td>
+<td>AGI24-DB06</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>DIFIORE-18-026</td>
+<td>Lagothrix lagotricha</td>
+<td>AGI24-DB07</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>DIFIORE-18-027</td>
+<td>Lagothrix lagotricha</td>
+<td>AGI24-DB08</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>DIFIORE-18-031</td>
+<td>Lagothrix lagotricha</td>
+<td>AGI24-DB09</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>VOYT-18-006</td>
+<td>Lagothrix lagotricha</td>
+<td>AGI24-DB10</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>DIFIORE-18-032</td>
+<td>Lagothrix lagotricha</td>
+<td>AGI24-DB11</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 </section>
 
 </main>
