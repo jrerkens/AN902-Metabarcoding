@@ -31,7 +31,6 @@ JRE
 
 -   Make sure to pull before you get started in the future!
 
-
 # Background and goals
 
 ELP
@@ -44,18 +43,19 @@ Our internship team has 4 main goals:
 
 3.  To develop a working protocol to DNA metabarcode woolly fecal samples to detect insects (and plants?) in their diet
 
-<<<<<<< HEAD
-**SMAGL Microbiome Extractions: DNeasy PowerLyzer PowerSoil Kit**
+4.  To practice bioinformatics skills by identifying and comparing the species eaten by YTWMs and common woolly monkeys
 
-# Authors: Developed for the SMAGL by Melissa Zarate (Schmitt Lab) based on a template provided by Dr. Liz Mallott (Washington University in St. Louis)
+# **SMAGL Microbiome Extractions: DNeasy PowerLyzer PowerSoil Kit**
 
-# \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_	
+## Authors: Developed for the SMAGL by Melissa Zarate (Schmitt Lab) based on a template provided by Dr. Liz Mallott (Washington University in St. Louis)
 
-# Important Notes							 	
+# \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+# Important Notes
 
 -   When conducting this protocol, always wear a suitable lab coat, disposable acrylamide gloves and protective goggles/glasses. For more information, consult the appropriate safety data sheets (SDSs) available from the product supplier.
 
--   To ensure proper sample identification, label sides and tops of the tubes. Processes used in this protocol may rub the labels off of the tubes, so it\'s important to duplicate!
+-   To ensure proper sample identification, label sides and tops of the tubes. Processes used in this protocol may rub the labels off of the tubes, so it's important to duplicate!
 
 -   Always include a control sample of sterile/DNAse free water for every extraction so that you can detect potential contamination!
 
@@ -67,7 +67,7 @@ Our internship team has 4 main goals:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-# Protocol (last updated 18FEB24 by CAS)				
+# Protocol (last updated 18FEB24 by CAS)
 
 ### Required Equipment and Reagents
 
@@ -77,7 +77,7 @@ Our internship team has 4 main goals:
 
 -   Microcentrifuge set to 10,000 rcf (not rpm) \[**Centrifuge Workstation**\]
 
--   Pipettes and pipette tips (sterile filter tips), prepare ahead to make sure you don\'t run out! \[Use filter tips; available on shelving above **PCR** and **Quantitation Workstations**; you should ONLY use the pipettes in the **BSC** and/or **Extraction Workstation** for extractions. The **Quantitation Station** has its own set of pipettes.\]
+-   Pipettes and pipette tips (sterile filter tips), prepare ahead to make sure you don't run out! \[Use filter tips; available on shelving above **PCR** and **Quantitation Workstations**; you should ONLY use the pipettes in the **BSC** and/or **Extraction Workstation** for extractions. The **Quantitation Station** has its own set of pipettes.\]
 
 -   Heat block or water bath set at 65C (this takes time to heat up; get it ready before starting the protocol) \[**Extraction Workstation**\]
 
@@ -125,7 +125,7 @@ Prior to starting, UV all tubes, pipettes, tips, etc. in the PCR or BSC for 10 m
 
 -   13\. Transfer up to 750 𝜇l of supernatant to a clean **2 ml Collection Tube**. Once again, be careful to avoid the pellet!
 
-    -   **Note**: The pellet at this point contains non-DNA organic and inorganic material including humic acid, cell debris and proteins. For best DNA yields and quality, avoid transferring any of the pellet. 	
+    -   **Note**: The pellet at this point contains non-DNA organic and inorganic material including humic acid, cell debris and proteins. For best DNA yields and quality, avoid transferring any of the pellet.
 
 -   14\. Add 1.2 ml of **Solution C4** to the supernatant and **vortex** for 5 s. Shake **Solution C4** by hand to mix prior to adding. Also, this will fill the **Collection Tube** to the brim, so be prepared.
 
@@ -149,11 +149,11 @@ Prior to starting, UV all tubes, pipettes, tips, etc. in the PCR or BSC for 10 m
 
     -   **Note**: This flow-through fraction is non-DNA organic and inorganic waste removed from the silica **Spin Filter** membrane by the ethanol wash solution. The second spin removes residual **Solution C5** (ethanol wash solution). It is critical to remove all traces of wash solution because the ethanol in **Solution C5** can interfere with many downstream DNA applications, such as PCR and gel electrophoresis.
 
--   18\. Place **Spin Filter** into a clean and labeled **2 ml Collection Tube** (this is the tube going into the freezer, so make sure it\'s labeled appropriately). Avoid splashing any **Solution C5** onto the **Spin Filter**.
+-   18\. Place **Spin Filter** into a clean and labeled **2 ml Collection Tube** (this is the tube going into the freezer, so make sure it's labeled appropriately). Avoid splashing any **Solution C5** onto the **Spin Filter**.
 
 -   19\. Incubate **Solution C6** for 5 minutes at 65ºC. Then, add 100 𝜇l of **Solution C6** to the center of the filter membrane.
 
-    -   **Note**: Placing **Solution C6** in the center of the small white membrane will make sure the entire membrane is wet. This will result in a more efficient and complete release of the DNA from the **Spin Filter** membrane. As **Solution C6** passes through the silica membrane, DNA that was bound in the presence of high salt is selectively released by **Solution C6** (which is actually 10 mM Tris), which lacks salt.	
+    -   **Note**: Placing **Solution C6** in the center of the small white membrane will make sure the entire membrane is wet. This will result in a more efficient and complete release of the DNA from the **Spin Filter** membrane. As **Solution C6** passes through the silica membrane, DNA that was bound in the presence of high salt is selectively released by **Solution C6** (which is actually 10 mM Tris), which lacks salt.
 
 -   20\. Incubate samples at room temperature for 25 minutes. Then **centrifuge** at 10,000 g (rcf) for 30 sec, and finally discard the spin filter.
 
@@ -161,48 +161,11 @@ Prior to starting, UV all tubes, pipettes, tips, etc. in the PCR or BSC for 10 m
 
 -   22\. Measure the dsDNA concentration using the **Quantus**, and sample A260/A280 using the **NanoDrop** \[**Quantitation Workstation**\]. Record these details in your lab notebook.
 
--   Place the properly labeled DNA elutions in the -20ºC freezer. Be sure to record where in the freezer you\'ve placed them, and that they are all together in a single, clearly labeled container/rack.
+-   Place the properly labeled DNA elutions in the -20ºC freezer. Be sure to record where in the freezer you've placed them, and that they are all together in a single, clearly labeled container/rack.
 
 ## SMAGL Anthropological Genetics Internship Extractions
 
-\
-
 NOTES: Please record by each step, above, who has done which step and when. Check with Prof. Schmitt prior to beginning regarding which samples should be extracted. ALWAYS make sure that there are sufficient reagents and equipment before beginning a protocol!
-
-## Samples
-
-\
-
-|                         |           |                                 |                     |           |
-|-------------------------|-----------|---------------------------------|---------------------|-----------|
-| **Sample ID**           | **Label** | **Final concentration (ng/uL)** | **A260/A280 value** | **Notes** |
-| Control (sterile water) |           |                                 |                     |           |
-|                         |           |                                 |                     |           |
-|                         |           |                                 |                     |           |
-|                         |           |                                 |                     |           |
-|                         |           |                                 |                     |           |
-|                         |           |                                 |                     |           |
-|                         |           |                                 |                     |           |
-|                         |           |                                 |                     |           |
-|                         |           |                                 |                     |           |
-|                         |           |                                 |                     |           |
-|                         |           |                                 |                     |           |
-|                         |           |                                 |                     |           |
-|                         |           |                                 |                     |           |
-|                         |           |                                 |                     |           |
-|                         |           |                                 |                     |           |
-|                         |           |                                 |                     |           |
-
-\
-							
-
-		
-=======
-
-4.  To practice bioinformatics skills by identifying and comparing the species eaten by YTWMs and common woolly monkeys
->>>>>>> 204b9549b8137b16f8ac27777b005e85beadd310
-
-\
 
 ELP
 
@@ -379,7 +342,7 @@ This protocol is modified from the protocol developed by Mel Zarate in the SMAGL
 
 54. Transfer the [QIAamp spin columns]{style="color:blue"} into the new set of [1.5 ml tubes]{style="color:green"}
 
-55.  Carefully open the [QIAamp spin columns]{style="color:blue"}, pipet 100 𝜇l of [Buffer AE]{style="color:blue"} directly onto the QIAamp membrane (do not touch the membrane with the pipette tip), and close the cap
+55. Carefully open the [QIAamp spin columns]{style="color:blue"}, pipet 100 𝜇l of [Buffer AE]{style="color:blue"} directly onto the QIAamp membrane (do not touch the membrane with the pipette tip), and close the cap
 
 56. Incubate the tubes at room temperature for 25 minutes
 
@@ -411,62 +374,59 @@ February 29, 2024:
 
 ELP and JRE:
 
-- UV'd 1000𝜇l pipettes, 200𝜇l pipettes, 12 2ml lo-bind tubes, razor blades, 200 and 1000 𝜇l tips.
-- Set heatblock to 56C
-- ELP: made 10% bleach
-- ELP: made ice bath; put samples in ice bath
-- Wiped BSC down with 70% ethenol, water (twice), then 10% bleach
+-   UV'd 1000𝜇l pipettes, 200𝜇l pipettes, 12 2ml lo-bind tubes, razor blades, 200 and 1000 𝜇l tips.
+-   Set heatblock to 56C
+-   ELP: made 10% bleach
+-   ELP: made ice bath; put samples in ice bath
+-   Wiped BSC down with 70% ethenol, water (twice), then 10% bleach
 
 Testing the 1000ml pipettes (ELP) (notetaker = FAB and JRE)
 
-- They both look to be pipetting the same amount (marked with Sharpie) 
+-   They both look to be pipetting the same amount (marked with Sharpie)
 
-1. Pipet 200 𝜇l of fecal slurry into the microcentrifuge tube. You may need to cut the end of the pipet tip with a razor blade, if necessary, to make pipetting easier. Remember to vortex the sample prior to pipetting, to make sure you are getting a good mixture of buffer and feces.
+1.  Pipet 200 𝜇l of fecal slurry into the microcentrifuge tube. You may need to cut the end of the pipet tip with a razor blade, if necessary, to make pipetting easier. Remember to vortex the sample prior to pipetting, to make sure you are getting a good mixture of buffer and feces.
 
-- Label tubes (completed by JRE at 5:13pm)
-- Adding 200 micro l water to control tube (completed by JRE at 5:16pm)
-- Vortex sample VOYT-18-017 and pipette 200 micro l into tube 03 (completed by ELP at 5:18pm)
-- Vortex sample VOYT-18-036 and pipette almost 200 micro l into tube 04 (completed by ELP at 5:19)
-- Vortex sample GIUNCHI-18-001 and pipette 200 micro l into tube 05 (completed by ELP at 5:20)
-- Vortex sample DIFIORE-18-025 and pipette 200 micro l into tube 06 (completed by ELP at 5:25)
-- Vortex sample DIFIORE-18-031 and pipette 200 micro l into tube 09 (completed by JRE at 5:28)
-- Vortex sample DIFIORE-18-032 and pipette 200 micro l into tube 11 (completed by JRE at 5:33) 
-- Vortex sample VOYT-18-029 and pipette 200 micro l into tube 02 (completed by JRE at 5:35)
-- Vortex sample GOMEZ-18-190 and pipette 200 micro l into tube 01 (completed by FAB at 5:39)
-- Vortex sample VOYT-18-006 and pipette 200 micro l into tube 10 (completed by FAB at 5:44)
-- Vortex sample DIFIORE-18-026 and pipette 200 micro l into tube 07 (completed by FAB at 5:46)
-- Vortex sample DIFIORE-18-027 and pipette 200 micro l into tube 08 (completed by FAB at 5:48)
+-   Label tubes (completed by JRE at 5:13pm)
+-   Adding 200 micro l water to control tube (completed by JRE at 5:16pm)
+-   Vortex sample VOYT-18-017 and pipette 200 micro l into tube 03 (completed by ELP at 5:18pm)
+-   Vortex sample VOYT-18-036 and pipette almost 200 micro l into tube 04 (completed by ELP at 5:19)
+-   Vortex sample GIUNCHI-18-001 and pipette 200 micro l into tube 05 (completed by ELP at 5:20)
+-   Vortex sample DIFIORE-18-025 and pipette 200 micro l into tube 06 (completed by ELP at 5:25)
+-   Vortex sample DIFIORE-18-031 and pipette 200 micro l into tube 09 (completed by JRE at 5:28)
+-   Vortex sample DIFIORE-18-032 and pipette 200 micro l into tube 11 (completed by JRE at 5:33)
+-   Vortex sample VOYT-18-029 and pipette 200 micro l into tube 02 (completed by JRE at 5:35)
+-   Vortex sample GOMEZ-18-190 and pipette 200 micro l into tube 01 (completed by FAB at 5:39)
+-   Vortex sample VOYT-18-006 and pipette 200 micro l into tube 10 (completed by FAB at 5:44)
+-   Vortex sample DIFIORE-18-026 and pipette 200 micro l into tube 07 (completed by FAB at 5:46)
+-   Vortex sample DIFIORE-18-027 and pipette 200 micro l into tube 08 (completed by FAB at 5:48)
 
+2.  Add 1.6 ml Buffer ASL to each stool sample. Vortex continuously for 1 min or until the stool sample is thoroughly homogenized. Note: It is very important to vortex the samples thoroughly. This helps ensure maximum DNA concentration in the final eluate.
 
-2. Add 1.6 ml Buffer ASL to each stool sample. Vortex continuously for 1 min or until the stool sample is thoroughly homogenized. 
-Note: It is very important to vortex the samples thoroughly. This helps ensure maximum DNA concentration in the final eluate. 
+-   Pipette 800 micro l of Buffer ASL to each tube twice, changing pipette tips each time (using 2 pipette tips per tube). (ELP completed control, tube 03, tube 04, and tube 05 at 5:53; JRE completed tube 06, 09, 11\[slightly less buffer was added\], and 02 at 6:03; FAB completed tube 01, 10, 07, and 08 at 6:08)
 
-- Pipette 800 micro l of Buffer ASL to each tube twice, changing pipette tips each time (using 2 pipette tips per tube). (ELP completed control, tube 03, tube 04, and tube 05 at 5:53; JRE completed tube 06, 09, 11[slightly less buffer was added], and 02 at 6:03; FAB completed tube 01, 10, 07, and 08 at 6:08) 
+-   Vortex each of the tubes for 1 minute (2 at a time, 1 in each hand); double check that tubes are closed
 
-- Vortex each of the tubes for 1 minute (2 at a time, 1 in each hand); double check that tubes are closed
-- Completed in shifts by ELP, JRE, and FAB at 6:17.
+-   Completed in shifts by ELP, JRE, and FAB at 6:17.
 
-3. Incubate samples at 56ºC in the Dry Bath for 30-60 min, then for an additional 30 min on Tube Rocker. Optional: further incubate in the Dry Bath at 23 degrees C overnight. [2-29-24; 60 minutes JRE]
+3.  Incubate samples at 56ºC in the Dry Bath for 30-60 min, then for an additional 30 min on Tube Rocker. Optional: further incubate in the Dry Bath at 23 degrees C overnight. \[2-29-24; 60 minutes JRE\]
 
-- Started 56 degree C Dry Bath at 6:18 pm (completed at )
-- Started Tube Rocker at (completed at )
-- Left in overnight 23 degrees C Dry Bath at
+-   Started 56 degree C Dry Bath at 6:18 pm (completed at )
+-   Started Tube Rocker at (completed at )
+-   Left in overnight 23 degrees C Dry Bath at
 
 -Cleaned out BSC with 70% ethenol, water, then 10% bleach (completed by ELP and JRE at 6:27 pm)
 
-
-
-| Sample ID | Taxon | Label | Final Concentration (ng/𝜇l) | **A260/A280 value** | Notes |
-|-----------|-------|-------|------------------------------|---------------------|-------|
-|Control (sterile water)    |NA        | AGI24-DBCL   |                     |       |       |
-|GOMEZ-18-190     |Lagothrix lagotricha| AGI24-DB01   |                     |       |       |
-|VOYT-18-029      |Lagothrix lagotricha| AGI24-DB02   |                     |       |       |
-|VOYT-18-017      |Lagothrix lagotricha| AGI24-DB03   |                     |       |       |
-|VOYT-18-036      |Lagothrix lagotricha| AGI24-DB04   |                     |       |Maybe not the entire 200𝜇l        |
-|GIUNCHI-18-001   |Lagothrix lagotricha| AGI24-DB05   |                     |       |       |
-|DIFIORE-18-025   |Lagothrix lagotricha| AGI24-DB06   |                     |       |       |
-|DIFIORE-18-026   |Lagothrix lagotricha| AGI24-DB07   |                     |       |       |
-|DIFIORE-18-027   |Lagothrix lagotricha| AGI24-DB08   |                     |       |       |
-|DIFIORE-18-031   |Lagothrix lagotricha| AGI24-DB09   |                     |       |       |
-|VOYT-18-006      |Lagothrix lagotricha| AGI24-DB10   |                     |       |Pipetted most of 200 then a tiny bit extra some chunks       |
-|DIFIORE-18-032   |Lagothrix lagotricha| AGI24-DB11   |                     |       |Slightly sless buffer was added       |
+| Sample ID               | Taxon                | Label      | Final Concentration (ng/𝜇l) | **A260/A280 value** | Notes                                                  |
+|-------------|-----------|-----------|----------------|------------|-----------|
+| Control (sterile water) | NA                   | AGI24-DBCL |                             |                     |                                                        |
+| GOMEZ-18-190            | Lagothrix lagotricha | AGI24-DB01 |                             |                     |                                                        |
+| VOYT-18-029             | Lagothrix lagotricha | AGI24-DB02 |                             |                     |                                                        |
+| VOYT-18-017             | Lagothrix lagotricha | AGI24-DB03 |                             |                     |                                                        |
+| VOYT-18-036             | Lagothrix lagotricha | AGI24-DB04 |                             |                     | Maybe not the entire 200𝜇l                             |
+| GIUNCHI-18-001          | Lagothrix lagotricha | AGI24-DB05 |                             |                     |                                                        |
+| DIFIORE-18-025          | Lagothrix lagotricha | AGI24-DB06 |                             |                     |                                                        |
+| DIFIORE-18-026          | Lagothrix lagotricha | AGI24-DB07 |                             |                     |                                                        |
+| DIFIORE-18-027          | Lagothrix lagotricha | AGI24-DB08 |                             |                     |                                                        |
+| DIFIORE-18-031          | Lagothrix lagotricha | AGI24-DB09 |                             |                     |                                                        |
+| VOYT-18-006             | Lagothrix lagotricha | AGI24-DB10 |                             |                     | Pipetted most of 200 then a tiny bit extra some chunks |
+| DIFIORE-18-032          | Lagothrix lagotricha | AGI24-DB11 |                             |                     | Slightly less buffer was added                         |
