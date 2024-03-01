@@ -294,134 +294,197 @@ Testing the 1000ml pipettes (ELP) (notetaker = FAB and JRE)
     -   We got out of lab \~8PM JRE
 -   Left in overnight 23 degrees C Dry Bath
     -   Dry Bath went down below 23 degrees C to 16.3 degrees C at 9:56 PM
-    -   Dry Bath was reset to 23 degrees C and was at temp at 10:02 PM
+    -   Dry Bath was reset to 23 degrees C by FAB and was at temp at 10:02 PM
 
 March 1, 2024
 
-1.  Increase the temperature of the [heating block]{style="color:green"} to 70 ºC
+-   Increase the temperature of the [heating block]{style="color:green"} to 70 ºC
 
--   Removed tubes from Dry Bath at 9:23 AM and placed in rack in BSC (at 23 degrees C), set Dry Bath to 70 degrees C (JRE)
+    -   Removed tubes from Dry Bath at 9:23 AM and placed in rack in BSC (at 23 degrees C), set Dry Bath to 70 degrees C (JRE)
 
-1.  Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute to pellet stool particles (make sure that the centrifuge is **balanced**)
+    -   ELP, FAB, and JRE mixed 10% bleach and wiped down BSC and microcentrifuge at 11:20 AM
 
-2.  Label a new set of [2 ml tubes]{style="color:green"}
+    -   ELP, FAB, and JRE UV'd the pipettes for 10min
 
-3.  Pipet 1.4 ml of the supernatant into the new [2 ml tubes]{style="color:green"} and discard the pellet
+-   Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute to pellet stool particles (make sure that the centrifuge is **balanced**)
 
-4.  Add 1 [InhibitEX Tablet]{style="color:blue"} or 500 𝜇l of [liquid InhibitEX]{style="color:blue"} (newer kits have liquid, older have tablets) to each sample
+    -   ELP, FAB, and JRE started microcentrifuge at 20,000 rcf at 11:28 (took \~24s to reach speed) ended at 11:29
 
-5.  Vortex each sample immediately for 1 minute or until the [InhibitEX]{style="color:blue"} is completely suspended
+```{=html}
+<!-- -->
+```
+-   Label a new set of [2 ml tubes]{style="color:green"}
 
-6.  Incubate suspension for 1 min at room temperature to allow inhibitors to adsorb to the [InhibitEX]{style="color:blue"} matrix
+    -   JRE labeled tubes at 11:27
 
-7.  Label a new set of [2 ml tubes]{style="color:green"}
+-   Pipet 1.4 ml of the supernatant into the new [2 ml tubes]{style="color:green"} and discard the pellet
 
-8.  Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 3 minutes to pellet stool particles and inhibitors bound to the [InhibitEX]{style="color:blue"} matrix (make sure that the centrifuge is **balanced**)
+    -   ELP pipetted 700 micro l of supernatant 2 times (did not switch tips within tubes, 1 pipette tip was used per tube) into tubes 05, 03, 04, and 11. (completed at 11:37 am)
+
+    -   JRE pipetted 700 micro l of supernatant 2 times into tubes 10 and 02. The pellet was disturbed in tube 01. Tube 01 and the control were re-centrifuged at 20,000 rcf for 1 min. JRE continued with tube 06 then re-pipetted 01. (completed at 11:47 am)
+
+    -   FAB pipetted 700 micro l of supernatant 2 times into tubes 07, 09, 08, and CL. (completed at 11:52).
+
+    -   Pellets were tossed at 11:53, JRE UV'd an extra set of 1000 micro pipette tips
+
+-   Add 1 [InhibitEX Tablet]{style="color:blue"} or 500 𝜇l of [liquid InhibitEX]{style="color:blue"} (newer kits have liquid, older have tablets) to each sample
+
+    -   ELP pipetted 500 micro l of liquid InhibitEX into tubes 05, 03, 04, and 11. A new pipette tip was used for each tube. (completed at 11:55)
+
+    -   JRE pipetted 500 micro l of liquid InhibitEX into tubes 10, 02, 06, 01 using a new pipette tip per tube. (completed at 11:58)
+
+    -   FAB pipetted 500 micro l of liquid InhibitEX into tubes 07, 09, 08, and CL using a new pipette tip per tube. (completed at 12:01).
+
+-   Vortex each sample immediately for 1 minute or until the [InhibitEX]{style="color:blue"} is completely suspended
+
+    -   JRE, ELP, and FAB switched off vortexing two tubes at a time (one in each hand) for 1 min. (completed at 12:08)
+
+-   Incubate suspension for 1 min at room temperature to allow inhibitors to adsorb to the [InhibitEX]{style="color:blue"} matrix
+
+    -   completed at 12:09.
+
+-   Label a new set of [2 ml tubes]{style="color:green"}
+
+    -   Completed by ELP at 12:04.
+
+-   Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 3 minutes to pellet stool particles and inhibitors bound to the [InhibitEX]{style="color:blue"} matrix (make sure that the centrifuge is **balanced**)
 
     -   **Note**: for difficult samples centrifugation for 3 minutes may result in a pellet that is not sufficiently compact. Therefore it may be difficult to remove enough supernatant to transfer 600 𝜇l supernatant after the next centrifugation step. In these cases, we recommend to centrifuge for 6 minutes
     -   **Note**: When processing more than 12 samples, for this step and step 17 we recommend processing batches of no more than 12 samples each. This is because the pellets formed after centrifugation will break up quickly if the supernatant is not removed immediately
+    -   ELP and JRE complete microcentrifuging the 12 tubes at 20,000 rcf for 6 min at 12:19.
 
-9.  Immediately after the [microcentrifuge]{style="color:green"} stops, pipet all of the supernatant into the clean [2 ml tubes]{style="color:green"} and discard the pellet (Transferring small quantities of pelleted material from the previous step will not affect the procedure)
+-   Immediately after the [microcentrifuge]{style="color:green"} stops, pipet all of the supernatant into the clean [2 ml tubes]{style="color:green"} and discard the pellet (Transferring small quantities of pelleted material from the previous step will not affect the procedure)
 
-10. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 3 minutes (make sure that the centrifuge is **balanced**)
+    -   Pipette was set to 900 micro l.
 
-11. Label a new set of [2 ml tubes]{style="color:green"}
+    -   ELP pipetted 900 micro l of supernatant twice (switching pipette tips between tubes) into tubes 03, 04, 05, and 11. Completed at 12:25.
 
-12. Pipet 25 𝜇l of [proteinase K]{style="color:blue"} into the newly labeled tubes
+    -   JRE pipetted 900 micro l of supernatant twice (switching pipette tips between tubes) into tubes 10, 02, 06, 01. Completed at 12:30.
 
-13. Pipet 600 𝜇l supernatant from step 18 into the tubes containing the [proteinase K]{style="color:blue"}
+    -   FAB pipetted 900 micro l of supernatant twice (switching pipette tips between tubes) into tubes 07, 08, 09, and CL. Completed at 12:37
 
-14. Add 600 𝜇l [Buffer AL]{style="color:blue"}
+-   Label a new set of [2 ml tubes]{style="color:green"}
+
+    -   completed by ELP at 12:16.
+
+-   Pipet 25 𝜇l of [proteinase K]{style="color:blue"} into the newly labeled tubes
+
+    -   JRE UV'd a box of 10 micro pipette tips for 10 min. Completed at 12:27. (this was necessary)
+
+    -   ELP pipetted 25 micro l of proteinase K (switching pipette tips between tubes) into the newly labeled empty 2 ml tubes 03, 04, 05, and 11. Completed at 12:40.
+
+    -   JRE pipetted 25 micro l of proteinase K (switching pipette tips between tubes) into the newly labeled empty 2ml tubes 10, 02, 06, 01. Completed at 12:43
+
+    -   FAB pipetted 25 micro l of proteinase K (switching pipette tips between tubes) into the newly labeled and empty 2 ml tubes 07, 08, 09, and CL. Completed at 12:46.
+
+-   Pipet 600 𝜇l supernatant from step 18 into the tubes containing the [proteinase K]{style="color:blue"}
+
+    -   ELP pipetted 600 micro l of supernatant into the new proteinase K tubes labeled 03, 04, 05, and 11. Completed at 12:49.
+
+    -   JRE pipetted 600 micro l of supernatant into the new proteinase K tubes labeled 10, 02, 06, 01. Completed at 12:52.
+
+    -   FAB pipetted 600 micro l of supernatant into the new proteinase K tubes labeled 07, 08, 09, and CL. Completed at 12:55).
+
+    -   A pink post-it note was added to the tray with the leftover supernatant tubes and set to the side to distinguish between those and our active sample tubes in a separate tray.
+
+-   Add 600 𝜇l [Buffer AL]{style="color:blue"}
 
     -   **Note**: do **NOT** add [proteinase K]{style="color:blue"} directly to [Buffer AL]{style="color:blue"}. It is essential that the sample and [Buffer AL]{style="color:blue"} are thoroughly mixed to form a homogeneous solution
+    -   ELP pipetted 600 micro l of Buffer AL (switching pipette tips between tubes) into the active sample tubes 03, 04, 05, and 11. Completed at 12:58.
+    -   JRE pipetted 600 micro l of Buffer AL (switching pipette tips between tubes) into the active sample tubes 10, 02, 06, and 01. (Had to switch to using Buffer AL from the QIAmp DNA Blood Kit for tubes 10 and 02) Completed at 1:02.
+    -   FAB pipetted 60 micro l of Buffer AL (from Blood Kit) into the active sample tubes 07, 08, 09, and CL. Completed at 1:06.
 
-15. Vortex tubes for 15 seconds
+-   Vortex tubes for 15 seconds
 
-16. Incubate the tubes in the [heating block]{style="color:green"} at 70°C for 60 min
+    -   ELP Vortexed all 12 tubes for 15 sec (2 at a time). Completed at 1:08.
+
+-   Incubate the tubes in the [heating block]{style="color:green"} at 70°C for 60 min
+
+    -   You may want to briefly centrifuge the tubes using the small [benchtop centrifuge]{style="color:green"} at the **Quantification Station** to remove drops from the inside of the tube lid (make sure that the centrifuge is **balanced**)
+    -   JRE started 60 min incubation at 1:10pm. Completed at
+    -   Leftover supernatant tray was placed in the -20 fridge by ELP at 1:11.
+
+-   Add 600 𝜇l of [96--100 % ethanol]{style="color:green"} to the lysate
+
+-   Vortex briefly
 
     -   You may want to briefly centrifuge the tubes using the small [benchtop centrifuge]{style="color:green"} at the **Quantification Station** to remove drops from the inside of the tube lid (make sure that the centrifuge is **balanced**)
 
-17. Add 600 𝜇l of [96--100 % ethanol]{style="color:green"} to the lysate
+-   Label the lid of a new set of [QIAamp spin columns]{style="color:blue"} and [2 ml collection tubes]{style="color:blue"}
 
-18. Vortex briefly
+-   Carefully apply 600 𝜇l of the lysate to the [QIAamp spin columns]{style="color:blue"} without moistening the rim and close the cap
 
-    -   You may want to briefly centrifuge the tubes using the small [benchtop centrifuge]{style="color:green"} at the **Quantification Station** to remove drops from the inside of the tube lid (make sure that the centrifuge is **balanced**)
+-   Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is **balanced**)
 
-19. Label the lid of a new set of [QIAamp spin columns]{style="color:blue"} and [2 ml collection tubes]{style="color:blue"}
-
-20. Carefully apply 600 𝜇l of the lysate to the [QIAamp spin columns]{style="color:blue"} without moistening the rim and close the cap
-
-21. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is **balanced**)
-
-22. Carefully pull the [QIAamp spin columns]{style="color:blue"} out of the [collection tubes]{style="color:blue"} and discard the filtrate
+-   Carefully pull the [QIAamp spin columns]{style="color:blue"} out of the [collection tubes]{style="color:blue"} and discard the filtrate
 
     -   **Note**: if the lysate has not completely passed through the column after centrifugation, centrifuge again until the [QIAamp spin columns]{style="color:blue"} are empty
 
-23. Replace the [QIAamp spin columns]{style="color:blue"} back into the now empty [collection tubes]{style="color:blue"}
+-   Replace the [QIAamp spin columns]{style="color:blue"} back into the now empty [collection tubes]{style="color:blue"}
 
-24. Carefully open the [QIAamp spin column]{style="color:blue"}, apply a second aliquot of 600 𝜇l lysate and close the cap
+-   Carefully open the [QIAamp spin column]{style="color:blue"}, apply a second aliquot of 600 𝜇l lysate and close the cap
 
-25. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is **balanced**)
+-   Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is **balanced**)
 
-26. Carefully pull the [QIAamp spin columns]{style="color:blue"} out of the [collection tubes]{style="color:blue"} and discard the filtrate
-
-    -   **Note**: if the lysate has not completely passed through the column after centrifugation, centrifuge again until the [QIAamp spin column]{style="color:blue"} is empty
-
-27. Replace the [QIAamp spin columns]{style="color:blue"} back into the now empty [collection tubes]{style="color:blue"}
-
-28. Carefully open the [QIAamp spin column]{style="color:blue"}, apply a third aliquot of 600 𝜇l lysate and close the cap
-
-29. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is **balanced**)
-
-30. Label the lid of a new set of [2 ml collection tubes]{style="color:blue"}
-
-31. Place the [QIAamp spin columns]{style="color:blue"} into the new set of labeled [2 ml collection tubes]{style="color:blue"} and discard the tubes containing the filtrate
+-   Carefully pull the [QIAamp spin columns]{style="color:blue"} out of the [collection tubes]{style="color:blue"} and discard the filtrate
 
     -   **Note**: if the lysate has not completely passed through the column after centrifugation, centrifuge again until the [QIAamp spin column]{style="color:blue"} is empty
 
-32. Carefully open the [QIAamp spin column]{style="color:blue"} and add 500 𝜇l of [Buffer AW1]{style="color:blue"} and close the cap
+-   Replace the [QIAamp spin columns]{style="color:blue"} back into the now empty [collection tubes]{style="color:blue"}
 
-33. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is **balanced**)
+-   Carefully open the [QIAamp spin column]{style="color:blue"}, apply a third aliquot of 600 𝜇l lysate and close the cap
 
-34. Label the lid of a new set of [2 ml collection tubes]{style="color:blue"}
+-   Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is **balanced**)
 
-35. Place the [QIAamp spin columns]{style="color:blue"} into the new set of labeled [2 ml collection tubes]{style="color:blue"} and discard the tubes containing the filtrate
+-   Label the lid of a new set of [2 ml collection tubes]{style="color:blue"}
 
-36. Carefully open the [QIAamp spin column]{style="color:blue"} and add 500 𝜇l of [Buffer AW2]{style="color:blue"} and close the cap
+-   Place the [QIAamp spin columns]{style="color:blue"} into the new set of labeled [2 ml collection tubes]{style="color:blue"} and discard the tubes containing the filtrate
 
-37. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 3 minutes (make sure that the centrifuge is **balanced**)
+    -   **Note**: if the lysate has not completely passed through the column after centrifugation, centrifuge again until the [QIAamp spin column]{style="color:blue"} is empty
+
+-   Carefully open the [QIAamp spin column]{style="color:blue"} and add 500 𝜇l of [Buffer AW1]{style="color:blue"} and close the cap
+
+-   Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is **balanced**)
+
+-   Label the lid of a new set of [2 ml collection tubes]{style="color:blue"}
+
+-   Place the [QIAamp spin columns]{style="color:blue"} into the new set of labeled [2 ml collection tubes]{style="color:blue"} and discard the tubes containing the filtrate
+
+-   Carefully open the [QIAamp spin column]{style="color:blue"} and add 500 𝜇l of [Buffer AW2]{style="color:blue"} and close the cap
+
+-   Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 3 minutes (make sure that the centrifuge is **balanced**)
 
     -   **Note**: residual [Buffer AW2]{style="color:blue"} in the eluate may cause problems in downstream applications. Some centrifuge rotors may vibrate upon deceleration, resulting in the flow-through, which contains [Buffer AW2]{style="color:blue"}, contacting the [QIAamp spin column]{style="color:blue"}. Removing the [QIAamp spin column]{style="color:blue"} and [collection tube]{style="color:blue"} from the rotor may also cause flow-through to come into contact with the [QIAamp spin column]{style="color:blue"}
 
-38. Label the lid of a new set of [2 ml collection tubes]{style="color:blue"}
+-   Label the lid of a new set of [2 ml collection tubes]{style="color:blue"}
 
-39. Place the [QIAamp spin columns]{style="color:blue"} into the new set of labeled [2 ml collection tubes]{style="color:blue"} and discard the tubes containing the filtrate
+-   Place the [QIAamp spin columns]{style="color:blue"} into the new set of labeled [2 ml collection tubes]{style="color:blue"} and discard the tubes containing the filtrate
 
-40. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is **balanced**)
+-   Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is **balanced**)
 
     -   **Note**: this step is optional but recommended help eliminate the chance of [Buffer AW2]{style="color:blue"} carryover
 
-41. Label the lid of a new set of [2 ml collection tubes]{style="color:blue"}
+-   Label the lid of a new set of [2 ml collection tubes]{style="color:blue"}
 
-42. Place the [QIAamp spin columns]{style="color:blue"} into the new set of labeled [2 ml collection tubes]{style="color:blue"} and discard the tubes containing the filtrate (the filtrate should be minimal)
+-   Place the [QIAamp spin columns]{style="color:blue"} into the new set of labeled [2 ml collection tubes]{style="color:blue"} and discard the tubes containing the filtrate (the filtrate should be minimal)
 
-43. Place [Buffer AE]{style="color:blue"} in the waterbath at 70 ºC to incubate for 10 minutes
+-   Place [Buffer AE]{style="color:blue"} in the waterbath at 70 ºC to incubate for 10 minutes
 
-44. Label a new set of [2 ml tubes]{style="color:green"} (These are the tubes going into the freezer, so labeling is extra important!)
+-   Label a new set of [2 ml tubes]{style="color:green"} (These are the tubes going into the freezer, so labeling is extra important!)
 
-45. Transfer the [QIAamp spin columns]{style="color:blue"} into the new set of [2 ml tubes]{style="color:green"}
+-   Transfer the [QIAamp spin columns]{style="color:blue"} into the new set of [2 ml tubes]{style="color:green"}
 
-46. Carefully open the [QIAamp spin columns]{style="color:blue"}, pipet 100 𝜇l of [Buffer AE]{style="color:blue"} directly onto the QIAamp membrane (do not touch the membrane with the pipette tip), and close the cap
+-   Carefully open the [QIAamp spin columns]{style="color:blue"}, pipet 100 𝜇l of [Buffer AE]{style="color:blue"} directly onto the QIAamp membrane (do not touch the membrane with the pipette tip), and close the cap
 
-47. Incubate the tubes at room temperature for 25 minutes
+-   Incubate the tubes at room temperature for 25 minutes
 
-48. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute to elute the DNA (you will need to use the largest centrifuge at the **Centrifuge Station** as this is the only one that goes this fast)
+-   Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute to elute the DNA (you will need to use the largest centrifuge at the **Centrifuge Station** as this is the only one that goes this fast)
 
-49. Pull the filter portion of the tube up and cap the tube (you can either discard it or save them if you want to try and get more DNA out of them)
+-   Pull the filter portion of the tube up and cap the tube (you can either discard it or save them if you want to try and get more DNA out of them)
 
-50. The liquid in the tube contains the DNA from the samples and should be stored in the [-20 °C freezer]{style="color:green"} when not in use! (Be sure to record where in the freezer you've placed them, and make sure that they are all together in a single, clearly labeled container/rack)
+-   The liquid in the tube contains the DNA from the samples and should be stored in the [-20 °C freezer]{style="color:green"} when not in use! (Be sure to record where in the freezer you've placed them, and make sure that they are all together in a single, clearly labeled container/rack)
 
-51. The next step is to quantify the DNA in the samples (this is done by measuring the dsDNA concentration using the [Quantus]{style="color:green"} and the sample A260/A280 using the [Nanodrop]{style="color:green"}, both are located at the **Extraction Workstation**). The results should be recorded in your lab notebook
+-   The next step is to quantify the DNA in the samples (this is done by measuring the dsDNA concentration using the [Quantus]{style="color:green"} and the sample A260/A280 using the [Nanodrop]{style="color:green"}, both are located at the **Extraction Workstation**). The results should be recorded in your lab notebook
 
     -   **Note**: DNA yield is typically 15--60 𝜇g but, depending on the individual stool sample and the way it was stored, may range from 5 to 100 𝜇g. DNA concentration is typically 75--300 ng/𝜇l
 
