@@ -234,6 +234,36 @@ This protocol is modified from the protocol developed by Mel Zarate in the SMAGL
 
     -   **Note**: DNA yield is typically 15--60 𝜇g but, depending on the individual stool sample and the way it was stored, may range from 5 to 100 𝜇g. DNA concentration is typically 75--300 ng/𝜇l
 
+# Quantification Protocol
+
+Manufacturer\'s protocol, without modifications from Melissa Zarate.
+
+## Important Notes
+
+-   Warm all assay components to room temperature before use.
+
+-   You may need to prepare 1X TE buffer from more concentrated stock, although 1X TE Buffer is also available in the cabinets above the Centrifuge Workstation, and may already be pre-prepared in the Underbench Fridge.
+
+-   If you have very little sample available, you may run this protocol using 1 μl rather than 2 μl.
+
+-   Before running a tube in the Quantus, remember to wipe the tube down with Kimwipes to make sure the tube is clear.
+
+## Required Equipment
+
+-   QuantiFluor® dsDNA System (Cat.# E2670) \[**Underbench Fridge - PCR Workstation**\], elements available in this kit will be noted in **bold blue**, elements that are available in the lab will be noted in **bold black**.
+
+-   QuantusTM Fluorometer (Cat.# E6150) \[**Quantitation Workstation**\]
+
+-   Vortex 
+
+-   Microcentrifuge 
+
+-   Thin-walled 0.5ml PCR tubes (Cat.# E4941 or Axygen Cat.# PCR-05-C). Make sure enough are available prior to beginning! You may need to autoclave a new set - these are available above the autoclave \[**Autoclave Workstation**\].
+
+-   Nuclease-free water \[Cabinet above water station\]
+
+-   Pre-label your tubes to speed things up!
+
 # Feb 12 - Feb 18
 
 JRE
@@ -401,30 +431,60 @@ March 1, 2024
 -   Incubate the tubes in the [heating block]{style="color:green"} at 70°C for 60 min
 
     -   You may want to briefly centrifuge the tubes using the small [benchtop centrifuge]{style="color:green"} at the **Quantification Station** to remove drops from the inside of the tube lid (make sure that the centrifuge is **balanced**)
-    -   JRE started 60 min incubation at 1:10pm. Completed at
+
+    -   JRE started 60 min incubation at 1:10pm.
+
     -   Leftover supernatant tray was placed in the -20 fridge by ELP at 1:11.
 
+    -   ELP took all 12 lysates out of Heat Block at 2:11.
+
+    -   ELP benchtop centrifuged all 12 lysates for 5 seconds.
+
 -   Add 600 𝜇l of [96--100 % ethanol]{style="color:green"} to the lysate
+
+    -   FAB had an exam, not present for this part of protocol.
+
+    -   ELP aliquotted 7.2mL of 96-100% ethanol into 2 LoBind Tubes (refilled in-between ELP and JRE pipetting ethanol). Completed at 2:17.
+
+    -   ELP pipetted 600 micro l of 96-100% ethanol (switching pipette tips between tubes) to lysates 03, 04, 05, 11, 07, 09. Completed at 2:16.
+
+    -   JRE pipetted 600 micro l of 96-100% ethanol (switching pipette tips between tubes) to lysates CL, 08, 02, 06, 01, and 10. Completed at 2:21.
 
 -   Vortex briefly
 
     -   You may want to briefly centrifuge the tubes using the small [benchtop centrifuge]{style="color:green"} at the **Quantification Station** to remove drops from the inside of the tube lid (make sure that the centrifuge is **balanced**)
+    -   ELP vortexed all 12 tubes for 15 sec (2 at a time). Centrifuged 6 tubes at a time for \~5s. Completed at 2:28.
 
 -   Label the lid of a new set of [QIAamp spin columns]{style="color:blue"} and [2 ml collection tubes]{style="color:blue"}
 
+    -   Completed by JRE at 2:29
+
 -   Carefully apply 600 𝜇l of the lysate to the [QIAamp spin columns]{style="color:blue"} without moistening the rim and close the cap
 
+    -   ELP pipetted 600 micro l of lysate (switching pipette tips between tubes) to QIAamp spin columns CL, 01, 02, 03, 04, 05. Completed at 2:33.
+
+    -   JRE pipetted 600 micro l of lysate (switching pipette tips between tubes) to QIAamp spin columns 06, 07. 08, 09, 10, 11. Completed at 2:38.
+
 -   Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is **balanced**)
+
+    -   Completed by ELP at 2:41 (lid was not on, made a scary noise).
 
 -   Carefully pull the [QIAamp spin columns]{style="color:blue"} out of the [collection tubes]{style="color:blue"} and discard the filtrate
 
     -   **Note**: if the lysate has not completely passed through the column after centrifugation, centrifuge again until the [QIAamp spin columns]{style="color:blue"} are empty
+    -   Sample 10 and 08 did not completely filter out. Some of Sample 10 spilled out onto centrifuge (wiped with kimwipe and Bleach). ELP redid and completed centrifuge step for these samples at 2:47
 
 -   Replace the [QIAamp spin columns]{style="color:blue"} back into the now empty [collection tubes]{style="color:blue"}
 
 -   Carefully open the [QIAamp spin column]{style="color:blue"}, apply a second aliquot of 600 𝜇l lysate and close the cap
 
+    -   ELP emptied collection tubes CL, 01, 02, 03, 04, 05 and pipetted 600 micro l of lysate (switching pipette tips between tubes) to QIAamp spin columns. Completed at 2:53.
+
+    -   JRE emptied collection tubes 06, 07, 08, 09, 10, 11 and pipetted 600 micro l of lysate (switching pipette tips between tubes) to QIAamp spin columns. Completed at 2:58.
+
 -   Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is **balanced**)
+
+    -   Completed by JRE at 3:01
 
 -   Carefully pull the [QIAamp spin columns]{style="color:blue"} out of the [collection tubes]{style="color:blue"} and discard the filtrate
 
@@ -434,7 +494,17 @@ March 1, 2024
 
 -   Carefully open the [QIAamp spin column]{style="color:blue"}, apply a third aliquot of 600 𝜇l lysate and close the cap
 
+    -   ELP emptied collection tubes CL, 01, 02, 03, 04, 05 (wiping the rim of each tube with 1 kimwipe) and pipetted final 600 micro l of lysate (switching pipette tips between tubes) to QIAamp spin columns. Discarded old tubes Completed at 3:10
+
+    -   JRE emptied collection tubes 06, 07, 08, 09, 10, 11 (wiping the rim of each tube with 1 kimwipe) and pipetted final 600 micro l of lysate (switching pipette tips between tubes) to QIAamp spin columns. Discard old tubes Completed at 3:15
+
+    -   Note, final micro l of lysate for all tubes not quite 600 micro l.
+
 -   Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is **balanced**)
+
+    -   Completed by ELP at 3:16.
+
+    -   Sample 07 had to be respun. Completed by ELP and JRE at 3:20
 
 -   Label the lid of a new set of [2 ml collection tubes]{style="color:blue"}
 
@@ -443,6 +513,10 @@ March 1, 2024
     -   **Note**: if the lysate has not completely passed through the column after centrifugation, centrifuge again until the [QIAamp spin column]{style="color:blue"} is empty
 
 -   Carefully open the [QIAamp spin column]{style="color:blue"} and add 500 𝜇l of [Buffer AW1]{style="color:blue"} and close the cap
+
+    -   JRE disposed and replaced each collection tube, then pipetted 500 micro l of Buffer AW1 to spin columns 06, 07, 08, 09, 10, 11. Completed at 3:25.
+
+    -   ELP disposed and replaced each collection tube, then pipetted 500 micro l of Buffer AW1 to spin columns CL, 01, 02, 03, 04, 05. Completed at 3:29.
 
 -   Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is **balanced**)
 
@@ -454,7 +528,9 @@ March 1, 2024
 
 -   Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 3 minutes (make sure that the centrifuge is **balanced**)
 
-    -   **Note**: residual [Buffer AW2]{style="color:blue"} in the eluate may cause problems in downstream applications. Some centrifuge rotors may vibrate upon deceleration, resulting in the flow-through, which contains [Buffer AW2]{style="color:blue"}, contacting the [QIAamp spin column]{style="color:blue"}. Removing the [QIAamp spin column]{style="color:blue"} and [collection tube]{style="color:blue"} from the rotor may also cause flow-through to come into contact with the [QIAamp spin column]{style="color:blue"}
+    -   ELP started at 4:41
+
+        -   **Note**: residual [Buffer AW2]{style="color:blue"} in the eluate may cause problems in downstream applications. Some centrifuge rotors may vibrate upon deceleration, resulting in the flow-through, which contains [Buffer AW2]{style="color:blue"}, contacting the [QIAamp spin column]{style="color:blue"}. Removing the [QIAamp spin column]{style="color:blue"} and [collection tube]{style="color:blue"} from the rotor may also cause flow-through to come into contact with the [QIAamp spin column]{style="color:blue"}
 
 -   Label the lid of a new set of [2 ml collection tubes]{style="color:blue"}
 
@@ -463,6 +539,7 @@ March 1, 2024
 -   Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is **balanced**)
 
     -   **Note**: this step is optional but recommended help eliminate the chance of [Buffer AW2]{style="color:blue"} carryover
+        -   ELP started at 3:52
 
 -   Label the lid of a new set of [2 ml collection tubes]{style="color:blue"}
 
@@ -470,35 +547,119 @@ March 1, 2024
 
 -   Place [Buffer AE]{style="color:blue"} in the waterbath at 70 ºC to incubate for 10 minutes
 
+    -   ELP started at 3:33
+
 -   Label a new set of [2 ml tubes]{style="color:green"} (These are the tubes going into the freezer, so labeling is extra important!)
 
 -   Transfer the [QIAamp spin columns]{style="color:blue"} into the new set of [2 ml tubes]{style="color:green"}
 
 -   Carefully open the [QIAamp spin columns]{style="color:blue"}, pipet 100 𝜇l of [Buffer AE]{style="color:blue"} directly onto the QIAamp membrane (do not touch the membrane with the pipette tip), and close the cap
 
+    -   ELP started at 4:12.
+
 -   Incubate the tubes at room temperature for 25 minutes
+
+    -   ELP started at 4:15
 
 -   Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute to elute the DNA (you will need to use the largest centrifuge at the **Centrifuge Station** as this is the only one that goes this fast)
 
+    -   ELP and JRE completed at 4:48.
+
+```{=html}
+<!-- -->
+```
 -   Pull the filter portion of the tube up and cap the tube (you can either discard it or save them if you want to try and get more DNA out of them)
+
+    -   ELP completed at 4:56.
 
 -   The liquid in the tube contains the DNA from the samples and should be stored in the [-20 °C freezer]{style="color:green"} when not in use! (Be sure to record where in the freezer you've placed them, and make sure that they are all together in a single, clearly labeled container/rack)
 
 -   The next step is to quantify the DNA in the samples (this is done by measuring the dsDNA concentration using the [Quantus]{style="color:green"} and the sample A260/A280 using the [Nanodrop]{style="color:green"}, both are located at the **Extraction Workstation**). The results should be recorded in your lab notebook
 
-    -   **Note**: DNA yield is typically 15--60 𝜇g but, depending on the individual stool sample and the way it was stored, may range from 5 to 100 𝜇g. DNA concentration is typically 75--300 ng/𝜇l
+    -   JRE labeled 0.5ml tubes and began UV'ing 10micro and 200 micro l pipette tips and pipettes at 4:50.
+
+        1\. If necessary, prepare **1X TE Buffer**: to do this, you may need to dilute **20X TE Buffer** 20-fold with **nuclease-free water**. We do also have 1X TE BUffer available in the cabinet above the Centrifuge Workstation; there may also be pre-prepared 1X TE Buffer in the Underbench Fridge.
+
+    -   Done prior to starting.
+
+        -   2\. Prepare Working Solution: Dilute the **QuantiFluor® dsDNA Dye** 1:400 in **1X TE buffer**, and mix. Working Solution may be available in the Underbench Fridge.
+
+            -   Done prior to starting.
+
+            -   Ran out of Working solution at 11th tube, ELP and JRE made \~1ml (3 parts dye to 1,197 TEx1) Working solution following protocol at 5:34.
+
+                3\. Prepare Blank sample: Mix 2 μl of **1X TE buffer** with 200 μl of **QuantiFluor® dsDNA Dye** Working Solution in an empty **0.5 ml PCR tube**. **Vortex** well and protect tube from light (we do this by covering the tube with aluminum foil).
+
+            -   JRE pipetted 2 micro l of 1X TE buffer into 0.5ml tube at 5:10
+
+            -   ELP pipetted 200 micro l of Working solution at 5:24.
+
+                4\. Prepare Standard: Add 2 μl of the provided **DNA Standard** (100 ng/μl) to 200 μl of **QuantiFluor® dsDNA Dye** working solution in an empty **0.5 ml PCR tube**. **Vortex** well and protect tube from light.
+
+            -   JRE pipetted 2 microl l of DNA Standard into 0.5 tube at 5:11
+
+            -   ELP pipetted 200 micro l of Working solution at 5:25.
+
+                5\. Prepare Samples to be quantified: Add 1 or 2 μl of unknown samples to 200 μl of **QuantiFluor® dsDNA Dye** working solution in **0.5 ml PCR tubes**. **Vortex** well, and protect tube from light. You will want to pipet the sample up and down multiple times to make sure the sample is well-blended.
+
+            -   JRE pipetted 2 micro l from samples CL, 01, 02, 03, 04. Completed at 5:16.
+
+            -   ELP pipetted 200 micro l of Working solution to samples CL, 01, 02, 03, 04, 05. Completed at 5:28.
+
+            -   ELP pipetted 2 micro l from samples 05, 06, 07, 08, 09, 10, 11. Completed at 5:22.
+
+            -   JRE pipetted 200 micro l of Working solution to samples 06, 07, 08, 09, 10, 11
+
+            -   Completed (after remaking \~1ml Working solution) at 5:44.
+
+                6\. Incubate the prepared samples at room temperature for 5 minutes, protected from light.
+
+            -   Finished incubating at 5:49.
+
+                7\. Select the dsDNA protocol on the **Quantus Fluorometer**.
+
+            -   Completed by ELP at 5:45.
+
+                8\. Prior to running samples on the Quantus Fluorometer, you should blend them well by **vortexing** briefly and then spinning them down briefly using the **microcentrifuge**. You should also wipe down the sides of the tubes with **kimwipes** to make sure the sides are clear from smudges. 
+
+            -   ELP vortexed and centrifuged each sample.
+
+                9\. If needed (you will need it!), calibrate the **Quantus Fluorometer** by reading the blank (Step 3; this should read as 0 ng/μl) and standard (Step 4; this should read as 100 ng/μl) samples in the Calibration screen, then select \"Save\". 
+
+                -   **Note**: a few ng/μl away from what it should be is ok... but large deviations need to be troubleshooted!
+
+            -   Calibration complete at 5:54.
+
+                10\. Enter the volume of the unknown sample (1--2 μl used in Step 5) and desired concentration units (in our case, ng/μl).
+
+            -   Already set prior to starting
+
+                11\. Pipette to mix each sample at least 10 times before putting the desired amount in the working solution. 
+
+            -   Done
+
+                12\. One sample at a time, mix by vortexing, briefly spin down and wipe the outside of the tube with a kimwipe. Measure fluorescence of the unknown sample and record the final sample concentration results.
+
+            ```{=html}
+            <!-- -->
+            ```
+            -   **Note**: DNA yield is typically 15--60 𝜇g but, depending on the individual stool sample and the way it was stored, may range from 5 to 100 𝜇g. DNA concentration is typically 75--300 ng/𝜇l
+                -   Blank concentration: 0
+                -   Standard concentration: 101
 
 | Sample ID               | Taxon                | Label      | Final Concentration (ng/𝜇l) | **A260/A280 value** | Notes                                                  |
 |------------|------------|------------|------------|------------|------------|
-| Control (sterile water) | NA                   | AGI24-DBCL |                             |                     |                                                        |
-| GOMEZ-18-190            | Lagothrix lagotricha | AGI24-DB01 |                             |                     |                                                        |
-| VOYT-18-029             | Lagothrix lagotricha | AGI24-DB02 |                             |                     |                                                        |
-| VOYT-18-017             | Lagothrix lagotricha | AGI24-DB03 |                             |                     |                                                        |
-| VOYT-18-036             | Lagothrix lagotricha | AGI24-DB04 |                             |                     | Maybe not the entire 200𝜇l                             |
-| GIUNCHI-18-001          | Lagothrix lagotricha | AGI24-DB05 |                             |                     |                                                        |
-| DIFIORE-18-025          | Lagothrix lagotricha | AGI24-DB06 |                             |                     |                                                        |
-| DIFIORE-18-026          | Lagothrix lagotricha | AGI24-DB07 |                             |                     |                                                        |
-| DIFIORE-18-027          | Lagothrix lagotricha | AGI24-DB08 |                             |                     |                                                        |
-| DIFIORE-18-031          | Lagothrix lagotricha | AGI24-DB09 |                             |                     |                                                        |
-| VOYT-18-006             | Lagothrix lagotricha | AGI24-DB10 |                             |                     | Pipetted most of 200 then a tiny bit extra some chunks |
-| DIFIORE-18-032          | Lagothrix lagotricha | AGI24-DB11 |                             |                     | Slightly less buffer was added                         |
+| Control (sterile water) | NA                   | AGI24-DBCL | 0.0258                      |                     |                                                        |
+| GOMEZ-18-190            | Lagothrix lagotricha | AGI24-DB01 | 1.46                        |                     |                                                        |
+| VOYT-18-029             | Lagothrix lagotricha | AGI24-DB02 | 0.234                       |                     |                                                        |
+| VOYT-18-017             | Lagothrix lagotricha | AGI24-DB03 | 0.395                       |                     |                                                        |
+| VOYT-18-036             | Lagothrix lagotricha | AGI24-DB04 | 0.195                       |                     | Maybe not the entire 200𝜇l                             |
+| GIUNCHI-18-001          | Lagothrix lagotricha | AGI24-DB05 | 0.595                       |                     |                                                        |
+| DIFIORE-18-025          | Lagothrix lagotricha | AGI24-DB06 | 0.202                       |                     |                                                        |
+| DIFIORE-18-026          | Lagothrix lagotricha | AGI24-DB07 | 1.09                        |                     |                                                        |
+| DIFIORE-18-027          | Lagothrix lagotricha | AGI24-DB08 | 0.145                       |                     |                                                        |
+| DIFIORE-18-031          | Lagothrix lagotricha | AGI24-DB09 | 0.151                       |                     |                                                        |
+| VOYT-18-006             | Lagothrix lagotricha | AGI24-DB10 | 1.82                        |                     | Pipetted most of 200 then a tiny bit extra some chunks |
+| DIFIORE-18-032          | Lagothrix lagotricha | AGI24-DB11 | 0.315                       |                     | Slightly less buffer was added                         |
+
+JRE and ELP finished (sad) at 6:00.
