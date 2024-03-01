@@ -123,14 +123,14 @@ This protocol is modified from the protocol developed by Mel Zarate in the SMAGL
 
 15. Incubate suspension for 1 min at room temperature to allow inhibitors to adsorb to the [InhibitEX]{style="color:blue"} matrix
 
-16. Label a new set of [1.5 ml tubes]{style="color:green"}
+16. Label a new set of [2 ml tubes]{style="color:green"}
 
 17. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 3 minutes to pellet stool particles and inhibitors bound to the [InhibitEX]{style="color:blue"} matrix (make sure that the centrifuge is **balanced**)
 
     -   **Note**: for difficult samples centrifugation for 3 minutes may result in a pellet that is not sufficiently compact. Therefore it may be difficult to remove enough supernatant to transfer 600 𝜇l supernatant after the next centrifugation step. In these cases, we recommend to centrifuge for 6 minutes
     -   **Note**: When processing more than 12 samples, for this step and step 17 we recommend processing batches of no more than 12 samples each. This is because the pellets formed after centrifugation will break up quickly if the supernatant is not removed immediately
 
-18. Immediately after the [microcentrifuge]{style="color:green"} stops, pipet all of the supernatant into the clean [1.5 ml tubes]{style="color:green"} and discard the pellet (Transferring small quantities of pelleted material from the previous step will not affect the procedure)
+18. Immediately after the [microcentrifuge]{style="color:green"} stops, pipet all of the supernatant into the clean [2 ml tubes]{style="color:green"} and discard the pellet (Transferring small quantities of pelleted material from the previous step will not affect the procedure)
 
 19. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 3 minutes (make sure that the centrifuge is **balanced**)
 
@@ -162,21 +162,21 @@ This protocol is modified from the protocol developed by Mel Zarate in the SMAGL
 
 30. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is **balanced**)
 
-31. Label a new set of [2 ml collection tubes]{style="color:blue"}
+31. Carefully pull the [QIAamp spin columns]{style="color:blue"} out of the [collection tubes]{style="color:blue"} and discard the filtrate
 
-32. Place the [QIAamp spin columns]{style="color:blue"} into the new set of labeled [2 ml collection tubes]{style="color:blue"} and discard the tubes containing the filtrate
+    -   **Note**: if the lysate has not completely passed through the column after centrifugation, centrifuge again until the [QIAamp spin columns]{style="color:blue"} are empty
 
-    -   **Note**: if the lysate has not completely passed through the column after centrifugation, centrifuge again until the [QIAamp spin column]{style="color:blue"} is empty
+32. Replace the [QIAamp spin columns]{style="color:blue"} back into the now empty [collection tubes]{style="color:blue"}
 
 33. Carefully open the [QIAamp spin column]{style="color:blue"}, apply a second aliquot of 600 𝜇l lysate and close the cap
 
 34. Centrifuge the tubes in the [microcentrifuge]{style="color:green"} at 20,000 rcf (not rpm) for 1 minute (make sure that the centrifuge is **balanced**)
 
-35. Label the lid of a new set of [2 ml collection tubes]{style="color:blue"}
-
-36. Place the [QIAamp spin columns]{style="color:blue"} into the new set of labeled [2 ml collection tubes]{style="color:blue"} and discard the tubes containing the filtrate
+35. Carefully pull the [QIAamp spin columns]{style="color:blue"} out of the [collection tubes]{style="color:blue"} and discard the filtrate
 
     -   **Note**: if the lysate has not completely passed through the column after centrifugation, centrifuge again until the [QIAamp spin column]{style="color:blue"} is empty
+
+36. Replace the [QIAamp spin columns]{style="color:blue"} back into the now empty [collection tubes]{style="color:blue"}
 
 37. Carefully open the [QIAamp spin column]{style="color:blue"}, apply a third aliquot of 600 𝜇l lysate and close the cap
 
@@ -216,9 +216,9 @@ This protocol is modified from the protocol developed by Mel Zarate in the SMAGL
 
 52. Place [Buffer AE]{style="color:blue"} in the waterbath at 70 ºC to incubate for 10 minutes
 
-53. Label a new set of [1.5 ml tubes]{style="color:green"} (These are the tubes going into the freezer, so labeling is extra important!)
+53. Label a new set of [2 ml tubes]{style="color:green"} (These are the tubes going into the freezer, so labeling is extra important!)
 
-54. Transfer the [QIAamp spin columns]{style="color:blue"} into the new set of [1.5 ml tubes]{style="color:green"}
+54. Transfer the [QIAamp spin columns]{style="color:blue"} into the new set of [2 ml tubes]{style="color:green"}
 
 55. Carefully open the [QIAamp spin columns]{style="color:blue"}, pipet 100 𝜇l of [Buffer AE]{style="color:blue"} directly onto the QIAamp membrane (do not touch the membrane with the pipette tip), and close the cap
 
@@ -295,7 +295,7 @@ Testing the 1000ml pipettes (ELP) (notetaker = FAB and JRE)
 -Cleaned out BSC with 70% ethenol, water, then 10% bleach (completed by ELP and JRE at 6:27 pm)
 
 | Sample ID               | Taxon                | Label      | Final Concentration (ng/𝜇l) | **A260/A280 value** | Notes                                                  |
-|-------------------------|----------------------|------------|-----------------------------|---------------------|--------------------------------------------------------|
+|------------|------------|------------|------------|------------|------------|
 | Control (sterile water) | NA                   | AGI24-DBCL |                             |                     |                                                        |
 | GOMEZ-18-190            | Lagothrix lagotricha | AGI24-DB01 |                             |                     |                                                        |
 | VOYT-18-029             | Lagothrix lagotricha | AGI24-DB02 |                             |                     |                                                        |
