@@ -295,7 +295,7 @@ Testing the 1000ml pipettes (ELP) (notetaker = FAB and JRE)
 -Cleaned out BSC with 70% ethenol, water, then 10% bleach (completed by ELP and JRE at 6:27 pm)
 
 | Sample ID               | Taxon                | Label      | Final Concentration (ng/𝜇l) | **A260/A280 value** | Notes                                                  |
-|------------|------------|------------|------------|------------|------------|
+|-------------------------|----------------------|------------|-----------------------------|---------------------|--------------------------------------------------------|
 | Control (sterile water) | NA                   | AGI24-DBCL |                             |                     |                                                        |
 | GOMEZ-18-190            | Lagothrix lagotricha | AGI24-DB01 |                             |                     |                                                        |
 | VOYT-18-029             | Lagothrix lagotricha | AGI24-DB02 |                             |                     |                                                        |
