@@ -234,7 +234,7 @@ This protocol is modified from the protocol developed by Mel Zarate in the SMAGL
 
     -   **Note**: DNA yield is typically 15--60 𝜇g but, depending on the individual stool sample and the way it was stored, may range from 5 to 100 𝜇g. DNA concentration is typically 75--300 ng/𝜇l
 
-# Quantification Protocol
+# Quantus Quantitation Protocol
 
 Manufacturer\'s protocol, without modifications from Melissa Zarate.
 
@@ -431,13 +431,9 @@ March 1, 2024
 -   Incubate the tubes in the [heating block]{style="color:green"} at 70°C for 60 min
 
     -   You may want to briefly centrifuge the tubes using the small [benchtop centrifuge]{style="color:green"} at the **Quantification Station** to remove drops from the inside of the tube lid (make sure that the centrifuge is **balanced**)
-
     -   JRE started 60 min incubation at 1:10pm.
-
     -   Leftover supernatant tray was placed in the -20 fridge by ELP at 1:11.
-
     -   ELP took all 12 lysates out of Heat Block at 2:11.
-
     -   ELP benchtop centrifuged all 12 lysates for 5 seconds.
 
 -   Add 600 𝜇l of [96--100 % ethanol]{style="color:green"} to the lysate
@@ -648,18 +644,34 @@ March 1, 2024
                 -   Standard concentration: 101
 
 | Sample ID               | Taxon                | Label      | Final Concentration (ng/𝜇l) | **A260/A280 value** | Notes                                                  |
-|------------|------------|------------|------------|------------|------------|
-| Control (sterile water) | NA                   | AGI24-DBCL | 0.0258                      |                     |                                                        |
-| GOMEZ-18-190            | Lagothrix lagotricha | AGI24-DB01 | 1.46                        |                     |                                                        |
-| VOYT-18-029             | Lagothrix lagotricha | AGI24-DB02 | 0.234                       |                     |                                                        |
-| VOYT-18-017             | Lagothrix lagotricha | AGI24-DB03 | 0.395                       |                     |                                                        |
-| VOYT-18-036             | Lagothrix lagotricha | AGI24-DB04 | 0.195                       |                     | Maybe not the entire 200𝜇l                             |
-| GIUNCHI-18-001          | Lagothrix lagotricha | AGI24-DB05 | 0.595                       |                     |                                                        |
-| DIFIORE-18-025          | Lagothrix lagotricha | AGI24-DB06 | 0.202                       |                     |                                                        |
-| DIFIORE-18-026          | Lagothrix lagotricha | AGI24-DB07 | 1.09                        |                     |                                                        |
-| DIFIORE-18-027          | Lagothrix lagotricha | AGI24-DB08 | 0.145                       |                     |                                                        |
-| DIFIORE-18-031          | Lagothrix lagotricha | AGI24-DB09 | 0.151                       |                     |                                                        |
-| VOYT-18-006             | Lagothrix lagotricha | AGI24-DB10 | 1.82                        |                     | Pipetted most of 200 then a tiny bit extra some chunks |
-| DIFIORE-18-032          | Lagothrix lagotricha | AGI24-DB11 | 0.315                       |                     | Slightly less buffer was added                         |
+|------------|------------|-------------|------------|------------|------------|
+| Control (sterile water) | NA                   | AGI24-DBCL | 0.0258 -Q 8-N               | 5.7                 |                                                        |
+| GOMEZ-18-190            | Lagothrix lagotricha | AGI24-DB01 | 1.46 - Q 8.6-N              | 5.66                |                                                        |
+| VOYT-18-029             | Lagothrix lagotricha | AGI24-DB02 | 0.234 - Q 9.8-N             | 4.31                |                                                        |
+| VOYT-18-017             | Lagothrix lagotricha | AGI24-DB03 | 0.395 - Q 7.1 -N            | 8.38                |                                                        |
+| VOYT-18-036             | Lagothrix lagotricha | AGI24-DB04 | 0.195- Q 8.3-N              | 5.92                | Maybe not the entire 200𝜇l                             |
+| GIUNCHI-18-001          | Lagothrix lagotricha | AGI24-DB05 | 0.595 - Q 10.2-N            | 3.97                |                                                        |
+| DIFIORE-18-025          | Lagothrix lagotricha | AGI24-DB06 | 0.202 - Q 10.3-N            | 4.15                |                                                        |
+| DIFIORE-18-026          | Lagothrix lagotricha | AGI24-DB07 | 1.09 - Q 11.2-N             | 4.22                |                                                        |
+| DIFIORE-18-027          | Lagothrix lagotricha | AGI24-DB08 | 0.145 - Q 8.5-N             | 4.17                |                                                        |
+| DIFIORE-18-031          | Lagothrix lagotricha | AGI24-DB09 | 0.151-Q 8.4-N               | 6.94                |                                                        |
+| VOYT-18-006             | Lagothrix lagotricha | AGI24-DB10 | 1.82-Q 15.4-N               | 3.03                | Pipetted most of 200 then a tiny bit extra some chunks |
+| DIFIORE-18-032          | Lagothrix lagotricha | AGI24-DB11 | 0.315-Q 14.13-N             | 6.9                 | Slightly less buffer was added                         |
 
 JRE and ELP finished (sad) at 6:00.
+
+# Mar 4 - Mar 10
+
+March, 4, 2024
+
+Written prior to there being a protocol on the website.
+
+-   JRE selected nucleic acids option on the
+
+1.  Clean pedestal w kimwipes and nuclease free water
+2.  Blank w 2 micro l of nuclease free water or storage medium (Buffer ATE)
+    -   JRE blanked with nuclease free water, not Buffer ATE.
+3.  Between each sample, clean w kim wipe and nuclease free water
+4.  2 micro l of sample for each run
+
+JRE, FAB, and ELP finished at 12:12
