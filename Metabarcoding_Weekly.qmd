@@ -13,9 +13,7 @@ JRE
 
 -   Import in project via version control
 
--   You will have a project and all the files on Github will be pulled locally
-
--   Generate a personal access token on Github
+-   You will have a project and all the files on Github will be pulled locally Generate a personal access token on Github
 
 -   Make your changes
 
@@ -1151,4 +1149,4 @@ REDOING original quantitation!
 |                         |                      |            | 2.7-N                       |                     |                                                        |
 +-------------------------+----------------------+------------+-----------------------------+---------------------+--------------------------------------------------------+
 
-#  
+# 
