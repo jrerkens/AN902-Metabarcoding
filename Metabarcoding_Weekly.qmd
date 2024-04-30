@@ -3,9 +3,10 @@ title: "Metabarcoding_Weekly"
 authors: "Evelyn Pain, Fatimah Bouderdaben, and Jimmy Erkens"
 format: html
 editor: visual
+toc: true
 ---
 
-# Brief Github protocol (Jimmy)
+# Brief Github protocol
 
 JRE
 
@@ -13,7 +14,9 @@ JRE
 
 -   Import in project via version control
 
--   You will have a project and all the files on Github will be pulled locally Generate a personal access token on Github
+-   You will have a project and all the files on Github will be pulled locally
+
+-   Generate a personal access token on Github
 
 -   Make your changes
 
@@ -262,21 +265,15 @@ Manufacturer's protocol, without modifications from Melissa Zarate.
 
 -   Pre-label your tubes to speed things up!
 
-# Primer Selection
-
-We will be using two sets of primers to identify insect species in the samples, and one set of primers to identify the plant species. All sets of primers have been successfully used by Dr. Mallott with various New World monkey species.
-
 # Feb 12 - Feb 18
 
 JRE
 
 This was the week we were supposed to start the extraction protocol, but got postponed.
 
-Fati: Practice Pipetting
+Practiced Pipetting Water
 
 # Feb 20 - Feb 25
-
-<input type="checkbox" id="cbox3" value="third_checkbox"> <label for="cbox3"> Can I only select an ID? </label><br>
 
 # Feb 26 - Mar 3
 
@@ -1148,5 +1145,3 @@ REDOING original quantitation!
 |                         |                      |            |                             |                     |                                                        |
 |                         |                      |            | 2.7-N                       |                     |                                                        |
 +-------------------------+----------------------+------------+-----------------------------+---------------------+--------------------------------------------------------+
-
-# 
